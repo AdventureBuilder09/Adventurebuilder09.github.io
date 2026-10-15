@@ -5,7 +5,9 @@ The goal is to make a true kitchen-table format with a minimal banlist that allo
 # Banlist
 
 The racist cards (why did you want to play them anyway?)
-The ante cards (this is very intended to be played digitally, )
+
+The ante cards (this is very intended to be played digitally, so ante doesn't really work)
+
 
 # Kernel Points
 
