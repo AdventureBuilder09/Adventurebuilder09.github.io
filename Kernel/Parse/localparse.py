@@ -20,7 +20,7 @@ except FileNotFoundError:
 data.sort(key=lambda card : card.get("edhrec_rank"))
 head = data
 print("Data successfully loaded")
-starPTVal = 40 #higher than every printed PT
+starPTVal = 40 #higher than every printed PT, shut up BFM and Infinity Elemental don't exist
 nonePTVal = -2
 def cast_int_pt(val):
     if val is None:
