@@ -17,7 +17,7 @@
         `Synced with GitHub commit from: ${latestCommitDate.toLocaleString()}`;
     })
     .catch(error => {
-      document.getElementById('build-status').innerText = 'Could not check status.';
+      document.getElementById('build-status').innerText = 'Could not get status.';
     });
 </script>
 
@@ -32,8 +32,8 @@
         <p>Paste your decklist below, then hit Score to check the score (it might take a second)</p>
 
         <div>
-            <label for="input-text"><strong>Input Text:</strong></label><br>
-            <textarea id="input-text" rows="10" style="width: 100%; margin-top: 8px;" placeholder="Paste text here..."></textarea>
+            <label for="input-text"><strong>Decklist:</strong></label><br>
+            <textarea id="input-text" rows="10" style="width: 100%; margin-top: 8px;" placeholder="1 Black Lotus..."></textarea>
         </div>
 
         <button py-click="process_text" style="margin-top: 12px; padding: 8px 16px; cursor: pointer;">Score</button>
