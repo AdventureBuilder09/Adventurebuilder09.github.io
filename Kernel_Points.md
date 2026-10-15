@@ -2,7 +2,7 @@
 
 The goal is to make a true kitchen-table format with a minimal banlist that allows for nearly unlimited deckbuilding freedom, while keeping a balanced format.
 
-In that light, Un-cards are legal
+In that light, Un-cards are legal! 
 # Banlist
 
 The racist cards (why did you want to play them anyway?)
