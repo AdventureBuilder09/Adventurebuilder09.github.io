@@ -21,7 +21,7 @@
         const TOKEN = ''; 
 
         sfunction getWorkflowStatus() {
-            const url = `https://github.com{OWNER}/${REPO}/actions/runs?per_page=1`;
+            const url = `https://github.com/{OWNER}/${REPO}/actions/runs?per_page=1`;
             
             const headers = {
                 'Accept': 'application/vnd.github+json'
