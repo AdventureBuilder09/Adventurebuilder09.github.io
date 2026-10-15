@@ -48,7 +48,7 @@ Mox Opal - 15
 Black Lotus - 25
 Blacker Lotus - 25
 Mana Crypt - 20
-Guild Pact - 20
+Guild Pact - 15
 
 ## Fast mana
 Sol Ring - 15
