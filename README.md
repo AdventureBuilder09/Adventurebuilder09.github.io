@@ -1,3 +1,1 @@
-# Adventurebuilder09.github.io
-[KP](Kernel_Points.md)
-Testing.
+WIP, probably going to forget this exists, 
