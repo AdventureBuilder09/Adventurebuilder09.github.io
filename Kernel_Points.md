@@ -71,3 +71,5 @@ Ad Nauseam - 40
 Thassa's Oracle - 40
 Demonic Consultation - 20
 Tinker - 10
+
+Hogaak, Arisen Necropolis - 3
