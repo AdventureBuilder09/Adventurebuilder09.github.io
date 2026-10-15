@@ -1,3 +1,7 @@
+# Overview
+
+The goal is to make a true kitchen-table format with a minimal banlist that allows for nearly unlimited 
+
 # Kernel Points
 
 1 card in your maindeck gives you 1 point to spend (I.E. you could have a commander creature in a 60-card deck with no other point-costing cards)
@@ -15,6 +19,7 @@ Playing more than the singleton value of a card (1 for most cards, 9 for nazgul,
 
 So to run 4 of a card, that would cost (0+1+2+3)=6pts, but to run 5 that would cost 10 pts, 15pts for 6, ect.
 
+# Commanders
 
 Max 1 commander (for now)
 
