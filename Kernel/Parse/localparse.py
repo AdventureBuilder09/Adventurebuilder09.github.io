@@ -2,7 +2,7 @@ import json
 import re
 import js
 async def process_text(event):
-            
+      try:
             # 1. Grab input text from the textarea
             decklist = js.document.getElementById("input-text").value
             
@@ -30,5 +30,5 @@ async def process_text(event):
             # 4. Join back and display in the output textarea
             final_output = f"Points value: {pts}"
             js.document.getElementById("output-text").value = final_output
-
-
+      except Exception as e:
+        js.document.getElementById("output-text").value = f"Uncaught PY Error: {e}"
