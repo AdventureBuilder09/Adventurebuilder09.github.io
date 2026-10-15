@@ -9,6 +9,23 @@
     <script type="module" src="https://pyscript.net/releases/2024.1.1/core.js"></script>
 </head>
 <body>
+
+<div id="build-status">Checking sync status...</div>
+
+<script>
+  // Replace with your actual GitHub username and repository name
+  fetch('https://api.github.com/repos/Adventurebuilder09/adventurebuilder09.github.io/commits/main')
+    .then(response => response.json())
+    .then(data => {
+      const latestCommitDate = new Date(data.commit.committer.date);
+      document.getElementById('build-status').innerText = 
+        `Synced with GitHub commit from: ${latestCommitDate.toLocaleString()}`;
+    })
+    .catch(error => {
+      document.getElementById('build-status').innerText = 'Could not check status.';
+    });
+</script>
+
     <main style="max-width: 800px; margin: 40px auto; font-family: sans-serif; padding: 0 20px;">
         <h2>PyScript Text Processor</h2>
         <p>Paste up to 200 lines of text below. When you click process, Python will map the text using a JSON configuration file.</p>
