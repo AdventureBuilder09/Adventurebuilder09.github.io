@@ -6,13 +6,28 @@
 	<script type="module" src="https://pyscript.net/releases/2026.7.3/core.js"></script>
 </head>
 <body>
-    <py-config>
-        files = {
-            "./localparse.py": "./localparse.py",
-            "./displayCard.py": "./displayCard.py"
-        }
-    </py-config>
-    <script type="py" src="localparse.py" defer></script>
+<!-- Latest update -->
+<script>
+  fetch('https://api.github.com/repos/Adventurebuilder09/adventurebuilder09.github.io/commits/main')
+    .then(response => response.json())
+    .then(data => {
+      const latestCommitDate = new Date(data.commit.committer.date);
+      document.getElementById('build-status').innerText = 
+        `Synced with GitHub commit from: ${latestCommitDate.toLocaleString()}`;
+    })
+    .catch(error => {
+      document.getElementById('build-status').innerText = 'Could not check status.';
+    });
+</script>
+
+
+<py-config>
+    files = {
+        "./localparse.py": "./localparse.py",
+        "./displayCard.py": "./displayCard.py"
+    }
+</py-config>
+<script type="py" src="localparse.py" defer></script>
 
 </body>
 </html>
