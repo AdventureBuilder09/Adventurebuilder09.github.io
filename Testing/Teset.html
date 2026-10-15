@@ -14,28 +14,72 @@
 <div id="build-status">Checking sync status...</div>
 
 <script>
-  // Replace with your actual GitHub username and repository name
-  fetch('https://api.github.com/repos/Adventurebuilder09/adventurebuilder09.github.io/commits/main')
-    .then(response => response.json())
-    .then(data => {
-      const latestCommitDate = new Date(data.commit.committer.date);
-      document.getElementById('build-status').innerText = 
-        `Synced with GitHub commit from: ${latestCommitDate.toLocaleString()}`;
-    })
-    .catch(error => {
-      document.getElementById('build-status').innerText = 'Could not check status.';
-    });
+	const OWNER = 'AdventureBuilder09';
+        const REPO = 'Adventurebuilder09.github.io';
+        
+        // Optional: Include if your repository is private (Do not leak secret keys in public HTML!)
+        const TOKEN = ''; 
+
+        async function getWorkflowStatus() {
+            const url = `https://github.com{OWNER}/${REPO}/actions/runs?per_page=1`;
+            
+            const headers = {
+                'Accept': 'application/vnd.github+json'
+            };
+            if (TOKEN) {
+                headers['Authorization'] = `Bearer ${TOKEN}`;
+            }
+
+            try {
+                const response = await fetch(url, { headers });
+                if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+                
+                const data = await response.json();
+                
+                if (data.workflow_runs && data.workflow_runs.length > 0) {
+                    const latestRun = data.workflow_runs[0];
+                    displayStatus(latestRun);
+                } else {
+                    document.getElementById('build-status').innerText = "No workflow runs found.";
+                }
+            } catch (error) {
+                console.error("Error fetching workflow status:", error);
+                document.getElementById('build-status').innerText = "Failed to load status.";
+            }
+        }
+
+        function displayStatus(run) {
+            const container = document.getElementById('build-status');
+            
+            // Determine final state: use conclusion if finished, otherwise show live status
+            const finalStatus = run.status === 'completed' ? run.conclusion : run.status;
+            
+            // Map CSS classes for styling
+            let statusClass = 'in_progress';
+            if (finalStatus === 'success') statusClass = 'success';
+            if (finalStatus === 'failure') statusClass = 'failure';
+
+            container.innerHTML = `
+                <p><strong>Workflow:</strong> ${run.name}</p>
+                <p><strong>Triggered by:</strong> ${run.event} on branch <code>${run.head_branch}</code></p>
+                <p><strong>Status:</strong> <span class="status ${statusClass}">${finalStatus.toUpperCase()}</span></p>
+                <p><a href="${run.html_url}" target="_blank">View run details on GitHub</a></p>
+            `;
+        }
+
+        // Run the function when the page loads
+        getWorkflowStatus();
 </script>
 
-        <h2>PyScript Text Processor</h2>
-        <p>Paste up to 200 lines of text below. When you click process, Python will map the text using a JSON configuration file.</p>
+        <h2>Decklist</h2>
+        <p>Paste your decklist below, then hit Score to check the score (it might take a second)</p>
 
         <div>
             <label for="input-text"><strong>Input Text:</strong></label><br>
             <textarea id="input-text" rows="10" style="width: 100%; margin-top: 8px;" placeholder="Paste text here..."></textarea>
         </div>
 
-        <button py-click="process_text" style="margin-top: 12px; padding: 8px 16px; cursor: pointer;">Process Text</button>
+        <button py-click="process_text" style="margin-top: 12px; padding: 8px 16px; cursor: pointer;">Score</button>
 
         <div style="margin-top: 20px;">
             <label for="output-text"><strong>Processed Output:</strong></label><br>
