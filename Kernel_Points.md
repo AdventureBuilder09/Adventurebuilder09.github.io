@@ -1,3 +1,5 @@
+# Kernel Points
+
 60 Card Base Min (See Advantageous Proclamation)
 15 Card Sideboard
 - cards in SB count for points
