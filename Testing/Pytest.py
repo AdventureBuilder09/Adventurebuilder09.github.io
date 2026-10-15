@@ -1,7 +1,7 @@
 import js
 import json
-        async def process_text(event):
-            # 1. Grab input text from the textarea
+async def process_text(event):
+           # 1. Grab input text from the textarea
             raw_text = js.document.getElementById("input-text").value
             
             # 2. Load the JSON configuration file (pre-fetched via config)
