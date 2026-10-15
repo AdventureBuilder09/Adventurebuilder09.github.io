@@ -1,0 +1,48 @@
+name: Deploy Markdown to GitHub Pages
+
+on:
+  push:
+    branches: ["main"] # Change to "master" if your default branch is master
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Pandoc
+        uses: r-lib/actions/setup-pandoc@v2
+
+      - name: Build HTML from Markdown
+        run: |
+          # Converts your markdown file (e.g., index.md or README.md) into index.html
+          # If your file is named something else, change 'index.md' below to your filename.
+          pandoc index.md -s -o index.html --metadata title="Shared Document"
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        path: "."
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
