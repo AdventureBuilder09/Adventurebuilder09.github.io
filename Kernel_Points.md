@@ -1,5 +1,6 @@
 # Kernel Points
 
+1 card in your maindeck gives you 1 point to spend (I.E. you could have a commander creature in a 60-card deck with no other point-costing cards)
 
 60 Card Base Min (See Advantageous Proclamation)
 
@@ -10,22 +11,24 @@
 - 2pts per additional SB card
 
 
+Playing more than the singleton value of a card (1 for most cards, 9 for nazgul, unlimited for basic lands and persistent petitioners) - 1pt for each other copy (plus any additional costs)
 
-More than 4 of a card - 2pt for each other copy (plus any additional costs)
+So to run 4 of a card, that would cost (0+1+2+3)=6pts, but to run 5 that would cost 10 pts, 15pts for 6, ect.
 
 
+Max 1 commander (for now)
 
-Commander Creature/Planeswalker - 50
+Commander Legendary Creature/Planeswalker - 60
 
-Commander Enchantment - 55
+Commander Enchantment/Nonlegendary Creature - 65
 
-Commander Instant/Sorcery - 60
+Commander Instant/Sorcery - 70
 
-Commander Artifact CMC >1 - 70
+Commander Artifact CMC >1 - 75
 
-Commander Artifact - 75
+Commander Artifact - 80
 
-Commander Land - 80
+Commander Land - 85
 
 Signature Spell (Cast only while you control your commander **permanent**) - 30
 
