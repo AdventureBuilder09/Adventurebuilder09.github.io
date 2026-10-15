@@ -20,7 +20,7 @@
         // Optional: Include if your repository is private (Do not leak secret keys in public HTML!)
         const TOKEN = ''; 
 
-        sfunction getWorkflowStatus() {
+        async function getWorkflowStatus() {
             const url = `https://github.com/{OWNER}/${REPO}/actions/runs?per_page=1`;
             
             const headers = {
