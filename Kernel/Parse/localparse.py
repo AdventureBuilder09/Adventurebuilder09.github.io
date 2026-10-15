@@ -7,12 +7,12 @@ async def process_text(event):
                           return nonePTVal
                       elif val == "*":
                       # Return a fixed value depending on where you want '*' to land
-                      return starPTVal
-            try:
-                  return int(val)
-            except (ValueError, TypeError):
-                  print("Attempt to cast unknown ",val)
-                  return -3
+                          return starPTVal
+                      try:
+                          return int(val)
+                      except (ValueError, TypeError):
+                          print("Attempt to cast unknown ",val)
+                          return -3
            # 1. Grab input text from the textarea
             decklist = js.document.getElementById("input-text").value
             
