@@ -2,4 +2,3 @@ WIP, probably going to forget this exists, but a good way to (hopefully) share i
 
 - [Points based Kernel](Kernel_Points.md)
 - That's all, folks!
-- Testing now
