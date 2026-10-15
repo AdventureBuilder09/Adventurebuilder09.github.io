@@ -4,4 +4,3 @@ WIP, probably going to forget this exists, but a good way to (hopefully) share i
 - [Test](Testing/Teset.html)
 - [Kernel-Validity-Checker.html](Kernel/Parse/Kernel-Validity-Checker.html)
 - [Current Git Status](Status.html)
-- That's all, folks!
