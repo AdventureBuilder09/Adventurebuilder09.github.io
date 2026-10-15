@@ -10,7 +10,9 @@ The racist cards (why did you want to play them anyway?)
 
 The ante cards (this is very intended to be played digitally, so ante doesn't really work)
 
-Dexterity-Based cards (again, virtual format)
+Dexterity-Based cards (again, virtual format). This includes, but is not limited to
+- Falling star
+- Chaos Orb
 # Kernel Points
 
 1 card in your maindeck gives you 1 point to spend (I.E. you could have a commander creature in a 60-card deck with no other point-costing cards)
