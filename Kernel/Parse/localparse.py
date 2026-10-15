@@ -32,13 +32,10 @@ async def process_text(event):
 
             for line in lines:
                 # Apply simple custom processing rules defined in JSON
-                current_line = line
-                for target, replacement in replacement_map.items():
-                    current_line = current_line.replace(target, replacement)
-                processed_lines.append(current_line)
+                
 
             # 4. Join back and display in the output textarea
-            final_output = "\n".join(processed_lines)
+            final_output = f"Points value: {pts}"
             js.document.getElementById("output-text").value = final_output
 
 
