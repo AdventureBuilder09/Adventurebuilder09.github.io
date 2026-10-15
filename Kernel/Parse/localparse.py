@@ -18,7 +18,7 @@ async def process_text(event):
             
             # 2. Load the JSON configuration file (pre-fetched via config)
             try:
-                with open("all.json", "r") as f:
+                with open("points.json", "r") as f:
                     cardDB = json.load(f)
             except Exception as e:
                 js.document.getElementById("output-text").value = f"Error loading JSON: {e}"
@@ -40,23 +40,5 @@ async def process_text(event):
             # 4. Join back and display in the output textarea
             final_output = "\n".join(processed_lines)
             js.document.getElementById("output-text").value = final_output
-#base = input("Please enter the input file (all.json is default)")
-base = "all.json"
-try:
-    with open(base, 'r', encoding='utf-8') as file:
-        data = json.load(file)
-except json.JSONDecodeError as e:
-    print(f"Parse Error: {e.msg}")
-    print(f"Line: {e.lineno}, Column: {e.colno}, Position: {e.pos}")
-    quit
-except FileNotFoundError:
-    print("Error: The specified file could not be found.")
-    quit
 
-
-data.sort(key=lambda card : card.get("edhrec_rank"))
-head = data
-print("Data successfully loaded")
-starPTVal = 40 #higher than every printed PT, shut up BFM and Infinity Elemental don't exist
-nonePTVal = -2
 
