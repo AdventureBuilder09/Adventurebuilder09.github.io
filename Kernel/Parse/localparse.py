@@ -15,7 +15,7 @@ async def process_text(event):
 
             # 3. Process lines (example: uppercase words or apply replacement rules from JSON)
             lines = raw_text.splitlines()
-            processed_lines = []
+            pts = lines.size()
             
             replacement_map = config_data.get("replacements", {})
 
