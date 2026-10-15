@@ -25,7 +25,7 @@ jobs:
 
       - name: Build HTML from Markdown
         run: |
-          pandoc index.md -s -o index.html --metadata title="Shared Document"
+          pandoc README.md -s -o index.html --metadata title="Shared Document"
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
