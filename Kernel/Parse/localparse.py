@@ -32,7 +32,8 @@ async def process_text(event):
 
             for line in lines:
                 # Apply simple custom processing rules defined in JSON
-                
+                for target, replacement in replacement_map.items():
+                    current_line = current_line.replace(target, replacement
 
             # 4. Join back and display in the output textarea
             final_output = f"Points value: {pts}"
