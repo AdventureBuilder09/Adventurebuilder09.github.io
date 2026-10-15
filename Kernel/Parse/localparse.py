@@ -3,12 +3,12 @@ import re
 import js
 async def process_text(event):
            # 1. Grab input text from the textarea
-            raw_text = js.document.getElementById("input-text").value
+            decklist = js.document.getElementById("input-text").value
             
             # 2. Load the JSON configuration file (pre-fetched via config)
             try:
-                with open("config.json", "r") as f:
-                    config_data = json.load(f)
+                with open("all.json", "r") as f:
+                    cardDB = json.load(f)
             except Exception as e:
                 js.document.getElementById("output-text").value = f"Error loading JSON: {e}"
                 return
