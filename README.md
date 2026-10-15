@@ -1,2 +1,2 @@
 # Adventurebuilder09.github.io
-![](Kernel_Points.md)
+[KP](Kernel_Points.md)
