@@ -1,32 +1,56 @@
 [
  pvals: {
-"Advantageous Proclamation - 10,
-"Sentinel Dispatch - 30
-"Muzzio's Preparations - 30
-"Backup Plan - 40
-"Worldknit - 40
-"Brago's Favor - 40
-"Unexpected Potential - 40
-"Secret Summoning - 50
-"Summoner's Bond - 60
-"Soverign's Realm - 60 
-"Power Play - 60
-"Double Stroke - 60
-"Echoing Boon - 60
-"Other Conspiracies - 20
-Mox Pearl - 15
-Mox Sapphire - 15
-Mox Jet - 15
-Mox Ruby - 15
-Mox Emerald - 15
-Mox Poison - 20
-Jack-in-the-Mox - 15
-Chrome Mox - 10
-Mox Diamond - 15
-Mox Opal - 15
-Black Lotus - 25
-Blacker Lotus - 25
-Mana Crypt - 20
-Guild Pact - 15
+"Advantageous Proclamation": 10,
+"Sentinel Dispatch": 30,
+"Muzzio's Preparations": 30,
+"Backup Plan": 40,
+"Worldknit": 40,
+"Brago's Favor": 40,
+"Unexpected Potential": 40,
+"Secret Summoning": 50,
+"Summoner's Bond": 60,
+"Soverign's Realm": 60, 
+"Power Play": 60,
+"Double Stroke": 60,
+"Echoing Boon": 60,
+"Other Conspiracies": 20,
+
+
+"Mox Pearl": 15,
+"Mox Sapphire": 15,
+"Mox Jet": 15,
+"Mox Ruby": 15,
+"Mox Emerald": 15,
+"Mox Poison": 20,
+"Jack-in-the-Mox": 15,
+"Chrome Mox": 10,
+"Mox Diamond": 15,
+"Mox Opal": 15,
+
+
+"Black Lotus": 25,
+"Blacker Lotus": 25,
+"Mana Crypt": 20,
+"Guild Pact": 15,
+
+
+"Sol Ring": 15,
+"Mana Vault": 15,
+"Channel": 20,
+
+
+"Gaea's Cradle": 10,
+"Mishra's Workshop": 20,
+"Tolarian Academy": 25,
+"Urza's Fun House": 30,
+"Cloudpost": 5,
+"Nearby Planet": 5,
+"Wrenn and One": 10,
+
+
+"Ad Nauseam": 40,
+"Thassa's Oracle": 40,
+"Demonic Consultation": 20,
+"Tinker": 10,
  }
 ]
