@@ -70,24 +70,5 @@
         // Run the function when the page loads
         getWorkflowStatus();
 </script>
-
-        <h2>Decklist</h2>
-        <p>Paste your decklist below, then hit Score to check the score (it might take a second)</p>
-
-        <div>
-            <label for="input-text"><strong>Input Text:</strong></label><br>
-            <textarea id="input-text" rows="10" style="width: 100%; margin-top: 8px;" placeholder="Paste text here..."></textarea>
-        </div>
-
-        <button py-click="process_text" style="margin-top: 12px; padding: 8px 16px; cursor: pointer;">Score</button>
-
-        <div style="margin-top: 20px;">
-            <label for="output-text"><strong>Processed Output:</strong></label><br>
-            <textarea id="output-text" rows="10" style="width: 100%; margin-top: 8px;" readonly placeholder="Processed result will appear here..."></textarea>
-        </div>
-    </main>
-
-    <!-- Python code block -->
-    <script type="py" config='{"files": {"config.json": "./config.json"}}' src="Pytest.py"></script>
 </body>
 </html>
