@@ -8,7 +8,7 @@ async def process_text(event):
             
             # 2. Load the JSON configuration file (pre-fetched via config)
             try:
-                with open("points.json", "r") as f:
+                with open("points.md", "r") as f:
                     cardDB = json.load(f)
             except Exception as e:
                 js.document.getElementById("output-text").value = f"Error loading JSON: {e}"
