@@ -51,6 +51,7 @@
 "Ad Nauseam": 40,
 "Thassa's Oracle": 40,
 "Demonic Consultation": 20,
-"Tinker": 10
+"Tinker": 10,
+"Germinate recruits": 2
  }
 ]
