@@ -21,6 +21,8 @@
     });
 </script>
 <br>
+<!-- Simply display the live, self-updating image badge directly -->
+<img src="" alt="Workflow Status">
 <div class="badge-container">
     <h4>Live Deployment Monitor</h4>
     <!-- The script will populate the src attribute here -->
@@ -39,7 +41,7 @@
         const cacheBuster = new Date().getTime();
         
         // Construct the official URL with the anti-cache parameter attached
-        const liveBadgeUrl = `https://github.com{OWNER}/${REPO}/actions/workflows/${WORKFLOW_FILE}/badge.svg?v=${cacheBuster}`;
+        const liveBadgeUrl = `https://github.com/AdventureBuilder09/Adventurebuilder09.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?v=${cacheBuster}`;
         
         // Update the image element
         badgeImg.src = liveBadgeUrl;
