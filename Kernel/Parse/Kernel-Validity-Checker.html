@@ -21,8 +21,36 @@
     });
 </script>
 <br>
-<!-- Simply display the live, self-updating image badge directly -->
-<img src="https://github.com/AdventureBuilder09/Adventurebuilder09.github.io/actions/workflows/pages/pages-build-deployment/badge.svg" alt="Workflow Status">
+<div class="badge-container">
+    <h4>Live Deployment Monitor</h4>
+    <!-- The script will populate the src attribute here -->
+    <img id="live-workflow-badge" src="" alt="Checking workflow status...">
+</div>
+
+<script>
+    const OWNER = 'YOUR_GITHUB_USERNAME';
+    const REPO = 'YOUR_REPOSITORY_NAME';
+    const WORKFLOW_FILE = 'your-workflow.yml'; // e.g., main.yml or deploy.yml
+
+    function refreshBadge() {
+        const badgeImg = document.getElementById('live-workflow-badge');
+        
+        // Use a timestamp to destroy the browser's attempt to cache the image
+        const cacheBuster = new Date().getTime();
+        
+        // Construct the official URL with the anti-cache parameter attached
+        const liveBadgeUrl = `https://github.com{OWNER}/${REPO}/actions/workflows/${WORKFLOW_FILE}/badge.svg?v=${cacheBuster}`;
+        
+        // Update the image element
+        badgeImg.src = liveBadgeUrl;
+    }
+
+    // 1. Run immediately when the user lands on the page
+    refreshBadge();
+
+    // 2. Refresh the image automatically every 10 seconds to catch live builds
+    setInterval(refreshBadge, 10000); 
+</script>
 <py-config>
     files = {
         "./localparse.py": "./localparse.py",
