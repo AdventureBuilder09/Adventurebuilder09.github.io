@@ -30,10 +30,6 @@
 </div>
 
 <script>
-    const OWNER = 'YOUR_GITHUB_USERNAME';
-    const REPO = 'YOUR_REPOSITORY_NAME';
-    const WORKFLOW_FILE = 'your-workflow.yml'; // e.g., main.yml or deploy.yml
-
     function refreshBadge() {
         const badgeImg = document.getElementById('live-workflow-badge');
         
@@ -41,8 +37,7 @@
         const cacheBuster = new Date().getTime();
         
         // Construct the official URL with the anti-cache parameter attached
-        const liveBadgeUrl = `https://github.com{OWNER}/${REPO}/actions/workflows/${WORKFLOW_FILE}/badge.svg?v=${cacheBuster}`;
-        const liveBadgeUrl = `https://github.com/AdventureBuilder09/Adventurebuilder09.github.io/actions/workflows/pages-build-deployment.yml/badge.svg?v=${cacheBuster}`;
+        const liveBadgeUrl = `https://github.com/AdventureBuilder09/Adventurebuilder09.github.io/actions/workflows/pages-build-deployment/badge.svg?v=${cacheBuster}`;
         
         // Update the image element
         badgeImg.src = liveBadgeUrl;
