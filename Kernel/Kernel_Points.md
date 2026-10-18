@@ -196,4 +196,4 @@ If a card would be destroyed, instead exile it. Then remove it from the game. Th
 
 # Rulings
 
-Elminster (the Advanced Dungeons & Dragons – InQuest #41 one) has an ability with splitter second similar to a mashup of
+Elminster (the Advanced Dungeons & Dragons – InQuest #41 one) has an ability with [splitter second](https://scryfall.com/card/unk/RA12b/trampled-lotus) similar to a mashup of
