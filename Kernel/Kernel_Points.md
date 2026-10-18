@@ -191,5 +191,5 @@ These can be fun, but you must check with your opponent ***before the game start
 
 ## Destroying cards
 
-
+If a card would be destroyed, instead exile it, then 
 
