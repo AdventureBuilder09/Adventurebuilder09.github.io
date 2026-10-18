@@ -4,39 +4,10 @@ The goal is to make a true kitchen-table format with a minimal banlist that allo
 
 In that light, Un-cards are legal! Good luck finding synergistic ones without any common deckbuilding sites!
 Similarly, Unknown Event cards, Heroes of the Realm cards, Digital Only Cards (including PAST cards, which scryfall can handle; also [EDH Silver](https://edhsilver.com/cards/uo/ast/faerie-dragon/)), and others are also legal.
-# Banlist
-
-Gleemox (it says so, who am I to argue?)
-
-The racist cards (why did you want to play them anyway?)
-
-The ante cards (this is very intended to be played digitally, so ante doesn't really work)
-
-Dexterity-Based cards (again, virtual format). This includes, but is not limited to
-- [Boomstacker](https://edhsilver.com/cards/uc/und/boomstacker/)
-- [Chaos Confetti](https://edhsilver.com/cards/uc/ugl/chaos-confetti/)
-- [Charm School](https://edhsilver.com/cards/uc/ugl/charm-school/)
-- [Cheatyface](https://edhsilver.com/cards/uc/unh/cheatyface/)
-- [Clay Pigeon](https://edhsilver.com/cards/uc/ugl/clay-pigeon/)
-- [Cramped Bunker](https://edhsilver.com/cards/uc/ust/cramped-bunker/)
-- [Entirely Normal Armchair](https://edhsilver.com/cards/uc/ust/entirely-normal-armchair/)
-- [Goblin Sleigh Ride](https://edhsilver.com/cards/uc/hho/goblin-sleigh-ride/)
-- [Landfill](https://edhsilver.com/cards/uc/ugl/landfill/)
-- [Ol’ Buzzbark](https://edhsilver.com/cards/uc/ust/ol-buzzbark/)
-- [Orcish Paratroopers](https://edhsilver.com/cards/uc/unh/orcish-paratroopers/)
-- [Order Orb](https://edhsilver.com/cards/uo/inq/order-orb/)
-- [Phyrexian Librarian](https://edhsilver.com/cards/uc/unh/phyrexian-librarian/)
-- [Pointy Finger of Doom](https://edhsilver.com/cards/uc/unh/pointy-finger-of-doom/)
-- [Slaying Mantis](https://edhsilver.com/cards/uc/ust/slaying-mantis/)
-- [Volrath’s Motion Sensor](https://edhsilver.com/cards/uc/ugl/volraths-motion-sensor/)
-- Devil K. Nevil
-
-I am going to piggyback off of EdhSilver for a few rules here:
-
 # Quests
 
 There 
-# Kernel Points
+# Kernel Point values
 
 1 card in your maindeck gives you 1 point to spend (I.E. you could have a commander creature in a 60-card deck with no other point-costing cards)
 
@@ -53,7 +24,7 @@ Playing more than the singleton value of a card (1 for most cards, 9 for nazgul,
 
 So to run 4 of a card, that would cost (0+1+2+3)=6pts, but to run 5 that would cost 10 pts, 15pts for 6, ect.
 
-# Commanders
+## Commanders
 
 Max 1 commander (for now)
 
@@ -75,7 +46,7 @@ Signature Spell (Cast only while you control your commander **permanent**) - 30
 
 
 
-# Conspiracies
+## Conspiracies
 
 Advantageous Proclamation - 10
 
@@ -109,9 +80,9 @@ Other Conspiracies - 20
 
 
 
-# Fast Mana
+## Fast Mana
 
-## Moxen
+### Moxen
 
 Mox Pearl - 15
 
@@ -135,7 +106,7 @@ Mox Opal - 15
 
 
 
-## Rituals
+### Rituals
 
 Black Lotus - 25
 
@@ -145,10 +116,6 @@ Mana Crypt - 20
 
 Guild Pact - 15
 
-
-
-## Fast mana
-
 Sol Ring - 15
 
 Mana Vault - 15
@@ -156,8 +123,7 @@ Mana Vault - 15
 Channel - 20
 
 
-
-## Lands
+### Lands
 
 Gaea's Cradle - 10
 
@@ -175,7 +141,7 @@ Wrenn and One - 10
 
 
 
-# General
+## General Power
 
 Ad Nauseam - 40
 
@@ -184,3 +150,41 @@ Thassa's Oracle - 40
 Demonic Consultation - 20
 
 Tinker - 10
+
+
+# Banlist
+
+### Gleemox 
+(it says so, who am I to argue?)
+
+### The racist cards 
+Why did you want to play them anyway? There are strictly better cards and this isn't the space for racism
+
+### The ante cards 
+(this is very intended to be played digitally, so ante doesn't really work)
+
+### Dexterity-Based cards 
+(again, virtual format). This includes, but is not limited to
+- [Boomstacker](https://edhsilver.com/cards/uc/und/boomstacker/)
+- [Chaos Confetti](https://edhsilver.com/cards/uc/ugl/chaos-confetti/)
+- [Charm School](https://edhsilver.com/cards/uc/ugl/charm-school/)
+- [Cheatyface](https://edhsilver.com/cards/uc/unh/cheatyface/)
+- [Clay Pigeon](https://edhsilver.com/cards/uc/ugl/clay-pigeon/)
+- [Cramped Bunker](https://edhsilver.com/cards/uc/ust/cramped-bunker/)
+- [Entirely Normal Armchair](https://edhsilver.com/cards/uc/ust/entirely-normal-armchair/)
+- [Goblin Sleigh Ride](https://edhsilver.com/cards/uc/hho/goblin-sleigh-ride/)
+- [Landfill](https://edhsilver.com/cards/uc/ugl/landfill/)
+- [Ol’ Buzzbark](https://edhsilver.com/cards/uc/ust/ol-buzzbark/)
+- [Orcish Paratroopers](https://edhsilver.com/cards/uc/unh/orcish-paratroopers/)
+- [Order Orb](https://edhsilver.com/cards/uo/inq/order-orb/)
+- [Phyrexian Librarian](https://edhsilver.com/cards/uc/unh/phyrexian-librarian/)
+- [Pointy Finger of Doom](https://edhsilver.com/cards/uc/unh/pointy-finger-of-doom/)
+- [Slaying Mantis](https://edhsilver.com/cards/uc/ust/slaying-mantis/)
+- [Volrath’s Motion Sensor](https://edhsilver.com/cards/uc/ugl/volraths-motion-sensor/)
+- Devil K. Nevil
+
+## I am going to piggyback off of EdhSilver for a few rules here:
+
+### Time-Sensitive Cards
+These can be fun, but you must check with your opponent ***before the game starts*** that they are OK with playing and resolving these cards.
+
