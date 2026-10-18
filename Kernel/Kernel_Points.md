@@ -16,6 +16,7 @@ Dexterity-Based cards (again, virtual format). This includes, but is not limited
 - Devil K. Nevil
 # Quests
 
+There 
 # Kernel Points
 
 1 card in your maindeck gives you 1 point to spend (I.E. you could have a commander creature in a 60-card deck with no other point-costing cards)
