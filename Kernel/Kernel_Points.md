@@ -13,8 +13,22 @@ The racist cards (why did you want to play them anyway?)
 The ante cards (this is very intended to be played digitally, so ante doesn't really work)
 
 Dexterity-Based cards (again, virtual format). This includes, but is not limited to
-- Falling star
-- Chaos Orb
+- [Boomstacker](https://edhsilver.com/cards/uc/und/boomstacker/)
+- [Chaos Confetti](https://edhsilver.com/cards/uc/ugl/chaos-confetti/)
+- [Charm School](https://edhsilver.com/cards/uc/ugl/charm-school/)
+- [Cheatyface](https://edhsilver.com/cards/uc/unh/cheatyface/)
+- [Clay Pigeon](https://edhsilver.com/cards/uc/ugl/clay-pigeon/)
+- [Cramped Bunker](https://edhsilver.com/cards/uc/ust/cramped-bunker/)
+- [Entirely Normal Armchair](https://edhsilver.com/cards/uc/ust/entirely-normal-armchair/)
+- [Goblin Sleigh Ride](https://edhsilver.com/cards/uc/hho/goblin-sleigh-ride/)
+- [Landfill](https://edhsilver.com/cards/uc/ugl/landfill/)
+- [Ol’ Buzzbark](https://edhsilver.com/cards/uc/ust/ol-buzzbark/)
+- [Orcish Paratroopers](https://edhsilver.com/cards/uc/unh/orcish-paratroopers/)
+- [Order Orb](https://edhsilver.com/cards/uo/inq/order-orb/)
+- [Phyrexian Librarian](https://edhsilver.com/cards/uc/unh/phyrexian-librarian/)
+- [Pointy Finger of Doom](https://edhsilver.com/cards/uc/unh/pointy-finger-of-doom/)
+- [Slaying Mantis](https://edhsilver.com/cards/uc/ust/slaying-mantis/)
+- [Volrath’s Motion Sensor](https://edhsilver.com/cards/uc/ugl/volraths-motion-sensor/)
 - Devil K. Nevil
 # Quests
 
