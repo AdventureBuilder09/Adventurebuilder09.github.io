@@ -6,6 +6,8 @@ In that light, Un-cards are legal! Good luck finding synergistic ones without an
 Similarly, Unknown Event cards, Heroes of the Realm cards, Digital Only Cards (including PAST cards, which scryfall can handle; also [EDH Silver](https://edhsilver.com/cards/uo/ast/faerie-dragon/)), and others are also legal.
 # Banlist
 
+Gleemox (it says so, who am I to argue?)
+
 The racist cards (why did you want to play them anyway?)
 
 The ante cards (this is very intended to be played digitally, so ante doesn't really work)
