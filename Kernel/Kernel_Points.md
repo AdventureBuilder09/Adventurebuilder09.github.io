@@ -31,7 +31,8 @@ Dexterity-Based cards (again, virtual format). This includes, but is not limited
 - [Volrath’s Motion Sensor](https://edhsilver.com/cards/uc/ugl/volraths-motion-sensor/)
 - Devil K. Nevil
 
-I am going to piggyback off of EdhSilver
+I am going to piggyback off of EdhSilver for a few rules here:
+
 # Quests
 
 There 
