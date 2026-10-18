@@ -186,5 +186,8 @@ Why did you want to play them anyway? There are strictly better cards and this i
 ## I am going to piggyback off of EdhSilver for a few rules here:
 
 ### Time-Sensitive Cards
+
 These can be fun, but you must check with your opponent ***before the game starts*** that they are OK with playing and resolving these cards.
+
+##
 
