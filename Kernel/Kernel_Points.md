@@ -14,6 +14,7 @@ Dexterity-Based cards (again, virtual format). This includes, but is not limited
 - Falling star
 - Chaos Orb
 - Devil K. Nevil
+- Faerie Dragon
 # Quests
 
 There 
