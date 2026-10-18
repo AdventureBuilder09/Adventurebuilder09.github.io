@@ -3,7 +3,7 @@
 The goal is to make a true kitchen-table format with a minimal banlist that allows for nearly unlimited deckbuilding freedom, while keeping a balanced format.
 
 In that light, Un-cards are legal! Good luck finding synergistic ones without any common deckbuilding sites!
-Similarly, Unknown Event cards, Heroes of the Realm cards, Digital Only Cards, and others are also legal.
+Similarly, Unknown Event cards, Heroes of the Realm cards, Digital Only Cards (including PAST cards, which scryfall can handle), and others are also legal.
 # Banlist
 
 The racist cards (why did you want to play them anyway?)
