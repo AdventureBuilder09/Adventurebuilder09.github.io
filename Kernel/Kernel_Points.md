@@ -35,7 +35,11 @@ Playing more than the singleton value of a card (1 for most cards, 9 for nazgul,
 
 So to run 4 of a card, that would cost (0+1+2+3)=6pts, but to run 5 that would cost 10 pts, 15pts for 6, ect.
 
-## Commanders
+## Command Zone
+
+Having constant access to one or more cards/abilities is very powerful \**cough* ***Lurrus*** *cough*\*. Therefore cards that you always have access to are very expensive. I did try to give good rebates with quests though.
+
+### Commanders
 
 Max 1 commander (for now)
 
@@ -57,7 +61,7 @@ Signature Spell (Cast only while you control your commander **permanent**) - 30
 
 
 
-## Conspiracies
+### Conspiracies
 
 Advantageous Proclamation - 10
 
