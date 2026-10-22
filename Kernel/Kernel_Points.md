@@ -7,8 +7,7 @@
 [Point Values](#Point Values)
 
 [Command Zone](#Command Zone)
-- 
-[Command Zone](#Commanders)
+- [Commanders](#Commanders)
 
 # Overview
 
