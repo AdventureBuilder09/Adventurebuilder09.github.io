@@ -11,16 +11,21 @@
 - [Fast Mana](#Fast%20Mana)
 	-  [Moxen](#Moxen)
 	-  [Rituals](#Rituals)
-	- 
+	-  [Lands](#Lands)
+- [Assorted Points Cards](#General%20Power)
+
+[Banlist](#Banlist)
 # Overview
 
 The goal is to make a true kitchen-table format with a minimal banlist that allows for nearly unlimited deckbuilding freedom, while keeping a balanced format.
 
 In that light, Un-cards are legal! Good luck finding synergistic ones without any common deckbuilding sites!
 Similarly, Unknown Event cards, Heroes of the Realm cards, Digital Only Cards (including PAST cards, which scryfall can handle; also [EDH Silver](https://edhsilver.com/cards/uo/ast/faerie-dragon/)), and others are also legal.
+
+Sadly, not all vanguards are legal since some of them are too good.
 # Quests
 
-There 
+The 
 # Kernel Point values
 
 1 card in your maindeck gives you 1 point to spend (I.E. you could have a commander creature in a 60-card deck with no other point-costing cards)
