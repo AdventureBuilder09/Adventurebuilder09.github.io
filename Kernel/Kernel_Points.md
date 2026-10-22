@@ -23,6 +23,8 @@ In that light, Un-cards are legal! Good luck finding synergistic ones without an
 Similarly, Unknown Event cards, Heroes of the Realm cards, Digital Only Cards (including PAST cards, which scryfall can handle; also [EDH Silver](https://edhsilver.com/cards/uo/ast/faerie-dragon/)), and others are also legal.
 
 Sadly, not all vanguards are legal since some of them are too good.
+
+The primary deckbuilding rule is Points. The base deck size (without Advantageous Proclamation) is 60
 # Quests
 
 The 
