@@ -103,7 +103,7 @@ Other Conspiracies - 20
 
 The [vanguards](https://mtg.fandom.com/wiki/Vanguard_(card_type)) range wildly in power, and I have not yet finished balancing all of them.
 
-You may have at most 1 vanguard, and for the moment I'll err on the side of being too powerful
+You may have at most 1 vanguard, and for the moment I'll err on the side of being too powerful and say 40pts each
 
 
 ## Fast Mana
