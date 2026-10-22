@@ -99,8 +99,11 @@ Echoing Boon - 60
 
 Other Conspiracies - 20
 
+### Vanguards
 
+The vanguards range wildly in power, and I have not yet finished balancing all of them.
 
+You may have at most 1 vanguard, 
 
 
 ## Fast Mana
