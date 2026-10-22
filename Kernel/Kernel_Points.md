@@ -183,7 +183,7 @@ You can also make your deck better by fulfilling certain restrictions. Yes this 
 
 ### Singleton (20 pts)
 
-You earn the singleton reward of 20 points by spending no points on duplicate cards. You can still play 6 [Seven Dwarves]()
+You earn the singleton reward of 20 points by spending no points on duplicate cards. You can still play 6 [Seven Dwarves](https://scryfall.com/card/eld/141/seven-dwarves) if you want. 
 
 
 # Banlist
