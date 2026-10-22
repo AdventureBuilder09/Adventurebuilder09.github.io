@@ -179,7 +179,11 @@ Tinker - 10
 
 # Quests
 
-You can also 
+You can also make your deck better by fulfilling certain restrictions. Yes this is a very original idea that I came up independently of the companion mechanic.
+
+### Singleton (20 pts)
+
+You earn the singleton reward of 20 points by spending no points in 
 
 
 # Banlist
