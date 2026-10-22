@@ -183,10 +183,10 @@ You can also make your deck better by fulfilling certain restrictions. Yes this 
 
 ### Singleton (20 pts)
 
-You earn the singleton reward of 20 points by spending no points on duplicate cards. You can still play 6 [Seven Dwarves](https://scryfall.com/card/eld/141/seven-dwarves) if you want. 
+You earn the singleton reward by spending no points on duplicate cards. You can still play 6 [Seven Dwarves](https://scryfall.com/card/eld/141/seven-dwarves) if you want. 
 
 ## Color Locked
-
+Exclusively if you have a commander permanent. You are Color Locked if you have 
 
 # Banlist
 
