@@ -5,12 +5,10 @@
 [Quests](#Quests)
 
 [Point Values](#Point Values)
-
-[Command Zone](#Command Zone)
-- [Commanders](#Commanders)
-- [Conspiracies](#Conspiracies)
-- 
-
+- [Command Zone](#Command Zone)
+	- [Commanders](#Commanders)
+	- [Conspiracies](#Conspiracies)
+- [Fast Mana](#Fast Mana)
 # Overview
 
 The goal is to make a true kitchen-table format with a minimal banlist that allows for nearly unlimited deckbuilding freedom, while keeping a balanced format.
