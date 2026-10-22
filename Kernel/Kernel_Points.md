@@ -185,8 +185,8 @@ You can also make your deck better by fulfilling certain restrictions. Yes this 
 
 You earn the singleton reward by spending no points on duplicate cards. You can still play 6 [Seven Dwarves](https://scryfall.com/card/eld/141/seven-dwarves) if you want. 
 
-## Color Locked
-Exclusively if you have a commander permanent. You are Color Locked if you have 
+## Color Locked (10pts)
+Exclusively if you have a commander permanent. You are Color Locked if every card in your starting deck is within your commanders(s) total color identity
 
 # Banlist
 
@@ -194,10 +194,10 @@ Exclusively if you have a commander permanent. You are Color Locked if you have
 (it says so, who am I to argue?)
 
 ### The racist cards 
-Why did you want to play them anyway? There are strictly better cards and this isn't the space for racism
+Why did you want to play them anyway? There are strictly better cards and this isn't the space for racism.
 
 ### The ante cards 
-(this is very intended to be played digitally, so ante doesn't really work)
+(this is very intended to be played digitally, so ante doesn't really work). 
 
 ### Dexterity-Based cards 
 (again, virtual format). This includes, but is not limited to
