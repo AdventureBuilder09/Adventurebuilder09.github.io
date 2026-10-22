@@ -4,7 +4,7 @@
 
 [Quests](#Quests)
 
-[Point Values](#Point Values)
+[Point Values](#Point%20Values)
 - [Command Zone](#Command%20Zone)
 	- [Commanders](#Commanders)
 	- [Conspiracies](#Conspiracies)
@@ -24,11 +24,11 @@ Similarly, Unknown Event cards, Heroes of the Realm cards, Digital Only Cards (i
 
 Sadly, not all vanguards are legal since some of them are too good.
 
-The primary deckbuilding rule is Points. The base deck size (without Advantageous Proclamation) is 60
+The primary deckbuilding rule is Points. The base deck size (without Advantageous Proclamation) is 60, but there is no limit. You get 1 point to spend for every card in your deck (so you can run 4 advantageous proclamations if you want to play 40-card singleton), and your deck is legal as long as the number of points you have is more than the total point cost of your deck. 
 # Quests
 
 The 
-# Kernel Point values
+# Point values
 
 1 card in your maindeck gives you 1 point to spend (I.E. you could have a commander creature in a 60-card deck with no other point-costing cards)
 
