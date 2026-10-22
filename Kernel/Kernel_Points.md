@@ -47,25 +47,24 @@ So to run 4 of a card, that would cost (0+1+2+3)=6pts, but to run 5 that would c
 
 Having constant access to one or more cards/abilities is very powerful \**cough* ***Lurrus*** *cough*\*. Therefore cards that you always have access to are very expensive. I did try to give good rebates with quests though.
 
+
 ### Commanders
 
 Max 1 commander (for now)
 
-Commander Legendary Creature/Planeswalker - 60
+Commander Legendary Creature/Planeswalker - 80
 
-Commander Enchantment/Nonlegendary Creature - 65
+Commander Enchantment/Nonlegendary Creature - 85
 
-Commander Instant/Sorcery - 70
+Commander Instant/Sorcery - 90
 
-Commander Artifact CMC >1 - 75
+Commander Artifact CMC >1 - 95
 
-Commander Artifact - 80
+Commander Artifact - 100
 
-Commander Land - 85
+Commander Land - 105
 
 Signature Spell (Cast only while you control your commander **permanent**) - 30
-
-
 
 
 
@@ -103,7 +102,7 @@ Other Conspiracies - 20
 
 The [vanguards](https://mtg.fandom.com/wiki/Vanguard_(card_type)) range wildly in power, and I have not yet finished balancing all of them.
 
-You may have at most 1 vanguard, and for the moment I'll err on the side of being too powerful and say 40pts each
+You may have at most 1 vanguard, and for the moment I'll err on the side of being too powerful and say 60pts each.
 
 
 ## Fast Mana
@@ -180,7 +179,9 @@ Tinker - 10
 
 # Quests
 
-There 
+
+
+
 # Banlist
 
 ### Gleemox 
