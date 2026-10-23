@@ -53,6 +53,7 @@ So to run 4 of a card, that would cost (0+1+2+3)=6pts, but to run 5 that would c
 Having constant access to one or more cards/abilities is very powerful \**cough* ***Lurrus*** *cough*\*. Therefore cards that you always have access to are very expensive. I did try to give good rebates with quests though.
 
 
+<a id="Commanders"></a>
 ### Commanders
 
 Max 1 commander (for now)
@@ -73,6 +74,7 @@ Signature Spell (Cast only while you control your commander **permanent**) - 30
 
 
 
+<a id="Conspiracies"></a>
 ### Conspiracies
 
 Advantageous Proclamation - 10
@@ -103,15 +105,16 @@ Echoing Boon - 60
 
 Other Conspiracies - 20
 
+<a id="Conspiracies"></a>
 ### Vanguards
 
 The [vanguards](https://mtg.fandom.com/wiki/Vanguard_(card_type)) range wildly in power, and I have not yet finished balancing all of them.
 
 You may have at most 1 vanguard, and for the moment I'll err on the side of being too powerful and say 60pts each.
 
-
+<a id="Conspiracies"></a>
 ## Fast Mana
-
+<a id="Conspiracies"></a>
 ### Moxen
 
 Mox Pearl - 15
@@ -135,7 +138,7 @@ Mox Diamond - 15
 Mox Opal - 15
 
 
-
+<a id="Conspiracies"></a>
 ### Rituals
 
 Black Lotus - 25
@@ -152,7 +155,7 @@ Mana Vault - 15
 
 Channel - 20
 
-
+<a id="Conspiracies"></a>
 ### Lands
 
 Gaea's Cradle - 10
@@ -170,7 +173,7 @@ Nearby Planet - 5
 Wrenn and One - 10
 
 
-
+<a id="Conspiracies"></a>
 ## General Power
 
 Ad Nauseam - 40
@@ -181,7 +184,7 @@ Demonic Consultation - 20
 
 Tinker - 10
 
-
+<a id="Conspiracies"></a>
 # Quests
 
 You can also make your deck better by fulfilling certain restrictions. Yes this is a very original idea that I came up independently of the companion mechanic.
@@ -194,7 +197,7 @@ You earn the singleton reward by spending no points on duplicate cards. You can 
 Exclusively if you have a commander permanent. You are Color Locked if every card in your starting deck is within your commanders(s) total color identity
 
 
-
+<a id="Conspiracies"></a>
 # Banlist
 
 ### Gleemox 
@@ -230,7 +233,7 @@ Why did you want to play them anyway? There are strictly better cards and this i
 
 ### Time-Sensitive Cards
 
-These can be fun, but you must check with your opponent ***before the game starts*** that they are OK with playing and resolving these cards.
+These can be fun, but you must check with your opponent ***before the game starts*** that they are OK with playing and resolving these cards. Essentially, banned but suggested to be legal via rule 0.
 
 ## Destroying cards
 
