@@ -185,7 +185,9 @@ Demonic Consultation - 20
 
 Tinker - 10
 
-Elminster (the inQuest one) - 10
+[Elminster](https://edhsilver.com/cards/uo/inq/elminster/) (the inQuest one) - 10
+
+- [Ruling for Elminster's ability](#Elminster)
 
 <a id="Quests"></a>
 # Quests
