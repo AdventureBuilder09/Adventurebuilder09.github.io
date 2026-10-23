@@ -15,6 +15,7 @@
 [Quests](#Quests)
 
 [Banlist](#Banlist)
+<a id="Overview"></a>
 # Overview
 
 The goal is to make a true kitchen-table format with a minimal banlist that allows for nearly unlimited deckbuilding freedom, while keeping a balanced format.
@@ -26,6 +27,8 @@ Sadly, not all vanguards are legal since some of them are too good.
 
 The primary deckbuilding rule is Points. The base deck size (without Advantageous Proclamation) is 60, but there is no limit. You get 1 point to spend for every card in your deck (so you can run at most 4 advantageous proclamations not counting quests), plus more by having your deck fulfill certain restrictions (See [Quests](#Quests)), and your deck is legal as long as the number of points you have is more than the total point cost of your deck (See [Point Values](#Point%20Values)).
 
+
+<a id="Point Values"></a>
 # Point values
 
 1 card in your maindeck gives you 1 point to spend (I.E. you could have a commander creature in a 60-card deck with no other point-costing cards)
@@ -43,6 +46,8 @@ Playing more than the singleton value of a card (1 for most cards, 9 for nazgul,
 
 So to run 4 of a card, that would cost (0+1+2+3)=6pts, but to run 5 that would cost 10 pts, 15pts for 6, ect.
 
+
+<a id="Command Zone"></a>
 ## Command Zone
 
 Having constant access to one or more cards/abilities is very powerful \**cough* ***Lurrus*** *cough*\*. Therefore cards that you always have access to are very expensive. I did try to give good rebates with quests though.
