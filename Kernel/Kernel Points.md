@@ -6,6 +6,7 @@
 - [Command Zone](#Command%20Zone)
 	- [Commanders](#Commanders)
 	- [Conspiracies](#Conspiracies)
+	- [Vanguards](#Vanguards)
 - [Fast Mana](#Fast%20Mana)
 	-  [Moxen](#Moxen)
 	-  [Rituals](#Rituals)
