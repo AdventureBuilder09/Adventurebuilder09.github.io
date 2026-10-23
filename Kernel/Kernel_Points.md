@@ -239,7 +239,7 @@ These can be fun, but you must check with your opponent ***before the game start
 
 # Rulings
 <a id="Elminster"></a>
-[Elminster](https://edhsilver.com/cards/uo/inq/elminster/) (the Advanced Dungeons & Dragons – InQuest #41 one) has an ability similar to that of [Trampled Lotus](https://scryfall.com/card/unk/RA12b/trampled-lotus)
+[Elminster](https://edhsilver.com/cards/uo/inq/elminster/) (the Advanced Dungeons & Dragons – InQuest #41 one) has an ability similar to that of [Trampled Lotus](https://scryfall.com/card/unk/RA12b/trampled-lotus). You choose the card face down while activating the ability, but do not reveal it until the ability resolves (which is usually immediately)
 ## Destroying cards
 
 If a card would be destroyed, instead exile it. Then remove it from the game. Then put it into the absolutely-removed-from-the-freaking-game-forever zone (treat it as though it doesn't exist).
