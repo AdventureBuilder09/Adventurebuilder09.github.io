@@ -27,7 +27,7 @@ Sadly, not all vanguards are legal since some of them are too good.
 
 The primary deckbuilding rule is Points. The base deck size (without Advantageous Proclamation) is 60, but there is no limit. You get 1 point to spend for every card in your deck (so you can run at most 4 advantageous proclamations not counting quests), plus more by having your deck fulfill certain restrictions (See [Quests](#Quests)), and your deck is legal as long as the number of points you have is more than the total point cost of your deck (See [Point Values](#Point%20Values)).
 
-I must give a big thanks to the [Home of the UnCommander Variant - EDH Silver](https://edhsilver.com/). They are a great resource for
+I must give a big thanks to the [Home of the UnCommander Variant - EDH Silver](https://edhsilver.com/). They are a great resource for weird, wacky, and wonderful un-heard (of) cards, and I did take a little (not a lot) of inspiration for rules when making this format
 
 <a id="Point Values"></a>
 # Point values
@@ -106,16 +106,16 @@ Echoing Boon - 60
 
 Other Conspiracies - 20
 
-<a id="Conspiracies"></a>
+<a id="Vanguards"></a>
 ### Vanguards
 
 The [vanguards](https://mtg.fandom.com/wiki/Vanguard_(card_type)) range wildly in power, and I have not yet finished balancing all of them.
 
 You may have at most 1 vanguard, and for the moment I'll err on the side of being too powerful and say 60pts each.
 
-<a id="Conspiracies"></a>
+<a id="Fast Mana"></a>
 ## Fast Mana
-<a id="Conspiracies"></a>
+<a id="Moxen"></a>
 ### Moxen
 
 Mox Pearl - 15
@@ -139,7 +139,7 @@ Mox Diamond - 15
 Mox Opal - 15
 
 
-<a id="Conspiracies"></a>
+<a id="Rituals"></a>
 ### Rituals
 
 Black Lotus - 25
@@ -156,7 +156,7 @@ Mana Vault - 15
 
 Channel - 20
 
-<a id="Conspiracies"></a>
+<a id="Lands"></a>
 ### Lands
 
 Gaea's Cradle - 10
@@ -174,7 +174,7 @@ Nearby Planet - 5
 Wrenn and One - 10
 
 
-<a id="Conspiracies"></a>
+<a id="General Power"></a>
 ## General Power
 
 Ad Nauseam - 40
@@ -184,6 +184,8 @@ Thassa's Oracle - 40
 Demonic Consultation - 20
 
 Tinker - 10
+
+Elminster (the inQuest one) - 10
 
 <a id="Conspiracies"></a>
 # Quests
