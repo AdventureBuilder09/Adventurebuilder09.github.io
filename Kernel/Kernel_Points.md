@@ -205,16 +205,13 @@ Exclusively if you have a commander permanent. You are Color Locked if every car
 <a id="Banlist"></a>
 # Banlist
 
-### Gleemox 
+## Gleemox 
 (it says so, who am I to argue?)
 
-### The racist cards 
-Why did you want to play them anyway? There are strictly better cards and this isn't the space for racism.
+## The racist cards 
+Pretty self explanatory. There are strictly better cards and this isn't the space for racism. 
 
-### The ante cards 
-(this is very intended to be played digitally, so ante doesn't really work). 
-
-### Dexterity-Based cards 
+## Dexterity-Based cards 
 (again, virtual format). This includes, but is not limited to
 - [Boomstacker](https://edhsilver.com/cards/uc/und/boomstacker/)
 - [Chaos Confetti](https://edhsilver.com/cards/uc/ugl/chaos-confetti/)
@@ -232,11 +229,19 @@ Why did you want to play them anyway? There are strictly better cards and this i
 - [Pointy Finger of Doom](https://edhsilver.com/cards/uc/unh/pointy-finger-of-doom/)
 - [Slaying Mantis](https://edhsilver.com/cards/uc/ust/slaying-mantis/)
 - [Volrath’s Motion Sensor](https://edhsilver.com/cards/uc/ugl/volraths-motion-sensor/)
-- Devil K. Nevil
+- [Devil K. Nevil](https://scryfall.com/card/unf/104/devil-k-nevil)
+
+## The ante cards 
+This format is very much intended to be played digitally, so ante doesn't really work.
+These could be playtested as destroying cards instead, so you could accidentally burn up your win condition, but for the moment no.
+
+# Banned De Facto
+
+These can be fun, but you must check with your opponent ***before the game starts*** that they are OK with playing and resolving these cards. Essentially, banned but suggested to be legal via rule 0.
 
 ## Time-Sensitive Cards
 
-These can be fun, but you must check with your opponent ***before the game starts*** that they are OK with playing and resolving these cards. Essentially, banned but suggested to be legal via rule 0.
+These are similar to dexterity cards, but easier to pull off in digital formats
 
 
 
