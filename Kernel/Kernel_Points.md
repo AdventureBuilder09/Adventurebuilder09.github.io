@@ -27,6 +27,7 @@ Sadly, not all vanguards are legal since some of them are too good.
 
 The primary deckbuilding rule is Points. The base deck size (without Advantageous Proclamation) is 60, but there is no limit. You get 1 point to spend for every card in your deck (so you can run at most 4 advantageous proclamations not counting quests), plus more by having your deck fulfill certain restrictions (See [Quests](#Quests)), and your deck is legal as long as the number of points you have is more than the total point cost of your deck (See [Point Values](#Point%20Values)).
 
+I must give a big thanks to the [Home of the UnCommander Variant - EDH Silver](https://edhsilver.com/). They are a great resource 
 
 <a id="Point Values"></a>
 # Point values
@@ -229,9 +230,7 @@ Why did you want to play them anyway? There are strictly better cards and this i
 - [Volrath’s Motion Sensor](https://edhsilver.com/cards/uc/ugl/volraths-motion-sensor/)
 - Devil K. Nevil
 
-## EdhSilver
-
-### Time-Sensitive Cards
+## Time-Sensitive Cards
 
 These can be fun, but you must check with your opponent ***before the game starts*** that they are OK with playing and resolving these cards. Essentially, banned but suggested to be legal via rule 0.
 
