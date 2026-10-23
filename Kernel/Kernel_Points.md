@@ -187,7 +187,7 @@ Tinker - 10
 
 Elminster (the inQuest one) - 10
 
-<a id="Conspiracies"></a>
+<a id="Quests"></a>
 # Quests
 
 You can also make your deck better by fulfilling certain restrictions. Yes this is a very original idea that I came up independently of the companion mechanic.
@@ -200,7 +200,7 @@ You earn the singleton reward by spending no points on duplicate cards. You can 
 Exclusively if you have a commander permanent. You are Color Locked if every card in your starting deck is within your commanders(s) total color identity
 
 
-<a id="Conspiracies"></a>
+<a id="Banlist"></a>
 # Banlist
 
 ### Gleemox 
