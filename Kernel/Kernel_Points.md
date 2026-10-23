@@ -235,11 +235,11 @@ Why did you want to play them anyway? There are strictly better cards and this i
 
 These can be fun, but you must check with your opponent ***before the game starts*** that they are OK with playing and resolving these cards. Essentially, banned but suggested to be legal via rule 0.
 
-## Destroying cards
-
-If a card would be destroyed, instead exile it. Then remove it from the game. Then put it into the absolutely-removed-from-the-freaking-game-forever zone (treat it as though it doesn't exist).
 
 
 # Rulings
 
-Elminster (the Advanced Dungeons & Dragons – InQuest #41 one) has an ability with [splitter second](https://scryfall.com/card/unk/RA12b/trampled-lotus) similar to a mashup of
+Elminster (the Advanced Dungeons & Dragons – InQuest #41 one) has an ability with [splitter second](https://scryfall.com/card/unk/RA12b/trampled-lotus) that 
+## Destroying cards
+
+If a card would be destroyed, instead exile it. Then remove it from the game. Then put it into the absolutely-removed-from-the-freaking-game-forever zone (treat it as though it doesn't exist).
