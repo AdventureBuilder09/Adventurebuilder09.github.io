@@ -239,7 +239,7 @@ These can be fun, but you must check with your opponent ***before the game start
 
 # Rulings
 
-Elminster (the Advanced Dungeons & Dragons – InQuest #41 one) has an ability with [splitter second](https://scryfall.com/card/unk/RA12b/trampled-lotus) that 
+[Elminster](https://edhsilver.com/cards/uo/inq/elminster/) (the Advanced Dungeons & Dragons – InQuest #41 one) has an ability with [splitter second](https://scryfall.com/card/unk/RA12b/trampled-lotus) that 
 ## Destroying cards
 
 If a card would be destroyed, instead exile it. Then remove it from the game. Then put it into the absolutely-removed-from-the-freaking-game-forever zone (treat it as though it doesn't exist).
