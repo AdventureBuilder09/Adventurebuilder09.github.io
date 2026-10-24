@@ -22,4 +22,4 @@ Some class/ability might add the option to draw from anywhere in your spellbook.
 #### Turn / APNAP system
 Each player takes turns taking 2 actions, with a lore 'casting time' of 2s that is not relevant to the actual gameplay. While a spell is being cast, it may be countered by another spell of the same power but opposite element (or a null spell). 
 
-<img src="Mage Duels/icons.png" alt="WIP icons">
+<img src="Mage%20Duels/icons.png" alt="WIP icons">
