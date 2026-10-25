@@ -34,6 +34,9 @@ The primary deckbuilding rule is Points. The base deck size (without Advantageou
 
 I must give a big thanks to the [Home of the UnCommander Variant - EDH Silver](https://edhsilver.com/). They are a great resource for weird, wacky, and wonderful un-heard (of) cards, and I did take a little (not a lot) of inspiration for rules when making this format
 
+## Speed goals
+
+Combo decks make attempts T2-3, Aggro threatens game shortly afterwards. 
 <a id="Point Values"></a>
 # Point values
 
@@ -62,7 +65,11 @@ Having constant access to one or more cards/abilities is very powerful \**cough*
 <a id="Commanders"></a>
 ### Commanders
 
-Max 1 commander (for now)
+Max 1 commander (for now).
+
+The commander will take the value of the first criteria from among the following:
+
+Commander Land - 105
 
 Commander Legendary Creature/Planeswalker - 80
 
@@ -73,8 +80,6 @@ Commander Instant/Sorcery - 90
 Commander Artifact CMC >1 - 95
 
 Commander Artifact - 100
-
-Commander Land - 105
 
 Signature Spell (Cast only while you control your commander **permanent**) - 30
 
@@ -149,6 +154,8 @@ Mox Opal - 15
 
 Black Lotus - 25
 
+Lotus Petal - 3
+
 Blacker Lotus - 25
 
 Mana Crypt - 20
@@ -161,6 +168,7 @@ Mana Vault - 15
 
 Channel - 20
 
+Lion's Eye Diamond - 10
 <a id="Lands"></a>
 ### Lands
 
@@ -176,9 +184,32 @@ Cloudpost - 5
 
 Nearby Planet - 5
 
-Wrenn and One - 10
+Strip Mine - 5
+
+Urza's Saga - 5
+
+## Free spells
+
+Gitaxian Probe - 3
 
 
+## Card Advantage / Tutors
+
+Ancestral Recall - 10
+
+Brainstorm - 2
+
+Demonic Tutor - 10
+
+Imperial Seal - 5
+
+Vampiric Tutor - 5
+
+Mystical Tutor - 5
+
+Merchant Scroll - 5
+
+Demonic Consultation - 10
 <a id="General Power"></a>
 ## General Power
 
@@ -194,6 +225,13 @@ Tinker - 10
 
 - [Ruling for Elminster's ability](#Elminster)
 
+Flash - 10
+
+Time Vault - 5
+
+Time Walk - 5
+
+Oracle of the Alpha - 10
 <a id="Quests"></a>
 # Quests
 
