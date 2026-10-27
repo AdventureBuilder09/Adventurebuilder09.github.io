@@ -20,6 +20,10 @@
 [De Facto Bannings](#Rule%200)
 
 [Rules Clarifications](#Rulings)
+
+[Changelog](#Changelog)
+
+
 <a id="Overview"></a>
 # Overview
 
@@ -71,7 +75,7 @@ The commander will take the value of the first criteria from among the following
 
 Commander Land - 105
 
-Commander Legendary Creature/Planeswalker - 80
+Commander Legendary Creature/Planeswalker or rulebreaker equivalent (I.E. Shorikai, partner pairings) - 80
 
 Commander Enchantment/Nonlegendary Creature - 85
 
@@ -82,8 +86,15 @@ Commander Artifact CMC >1 - 95
 Commander Artifact - 100
 
 Signature Spell (Cast only while you control your commander **permanent**) - 30
+- You may not have a signature spell if you have a commander instant/sorcery (including Ashaya's Enduring Bond)
 
 
+<a id="Vanguards"></a>
+### Vanguards
+
+The [vanguards](https://mtg.fandom.com/wiki/Vanguard_(card_type)) range wildly in power, and I have not yet finished balancing all of them.
+
+You may have at most 1 vanguard, and for the moment I'll err on the side of being too powerful and say 60pts each.
 
 <a id="Conspiracies"></a>
 ### Conspiracies
@@ -116,12 +127,6 @@ Echoing Boon - 60
 
 Other Conspiracies - 20
 
-<a id="Vanguards"></a>
-### Vanguards
-
-The [vanguards](https://mtg.fandom.com/wiki/Vanguard_(card_type)) range wildly in power, and I have not yet finished balancing all of them.
-
-You may have at most 1 vanguard, and for the moment I'll err on the side of being too powerful and say 60pts each.
 
 <a id="Fast Mana"></a>
 ## Fast Mana
@@ -232,6 +237,12 @@ Time Vault - 5
 Time Walk - 5
 
 Oracle of the Alpha - 10
+
+Mind's Desire - 10
+
+Yawgmoth's Will - 5
+
+Golgari Grave-Troll - 5
 <a id="Quests"></a>
 # Quests
 
@@ -298,3 +309,9 @@ These are similar to dexterity cards, but easier to pull off in digital formats
 ## Destroying cards
 
 If a card would be destroyed, instead exile it. Then remove it from the game. Then put it into the absolutely-removed-from-the-freaking-game-forever zone (treat it as though it doesn't exist).
+
+<a id="Changelog"></a>
+# Changelog
+- Changed vanguard points rulings
+- Added values for Yawgmoth's Will, Mind's Desire, and Golgari Grave-Troll
+- Added Changelog
