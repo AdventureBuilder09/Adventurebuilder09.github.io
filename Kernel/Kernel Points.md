@@ -65,11 +65,9 @@ So to run 4 of a card, that would cost (0+1+2+3)=6pts, but to run 5 that would c
 
 Having constant access to one or more cards/abilities is very powerful \**cough* ***Lurrus*** *cough*\*. Therefore cards that you always have access to are very expensive. I did try to give good rebates with quests though.
 
-
+You may have a total of one Commander (or legal partner pairing), with up to one signature spell, OR one vanguard, and as many conspiracies as you can afford.
 <a id="Commanders"></a>
 ### Commanders
-
-Max 1 commander (for now).
 
 The commander will take the value of the first criteria from among the following:
 
@@ -94,7 +92,17 @@ Signature Spell (Cast only while you control your commander **permanent**) - 30
 
 The [vanguards](https://mtg.fandom.com/wiki/Vanguard_(card_type)) range wildly in power, and I have not yet finished balancing all of them.
 
-You may have at most 1 vanguard, and for the moment I'll err on the side of being too powerful and say 60pts each.
+You may have at most 1 vanguard.
+
+The point value for each vanguard follows the following rules:
+- Base value of 60 points
+- If it increases maximum hand size, add points equal to 4 times the increase
+- If it increases starting life total, add points equal to the increase
+- If it is any of the following, add the corresponding value:
+	- [Squee](https://scryfall.com/card/pvan/107/squee) - 5 pts
+	- [Ertai](https://scryfall.com/card/pvan/101/ertai) - 10 pts
+	- [Elvish Champion](https://scryfall.com/card/pmoa/37/elvish-champion-avatar) - -20 (so a total value of 40)
+	- [Hanna](https://scryfall.com/card/pvan/204/hanna) - 10 pts
 
 <a id="Conspiracies"></a>
 ### Conspiracies
