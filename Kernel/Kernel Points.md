@@ -268,10 +268,17 @@ You can also make your deck better by fulfilling certain restrictions. Yes this 
 
 You earn the singleton reward by spending no points on duplicate cards. You can still play 6 [Seven Dwarves](https://scryfall.com/card/eld/141/seven-dwarves) if you want. 
 
-## Color Locked (10pts)
+## Color Locked (10 pts)
 Exclusively if you have a commander permanent. You are Color Locked if every card in your starting deck is within your commanders(s) total color identity
 
-## Block Construction (50)
+## Block Construction (30 pts)
+Build your deck from exclusively cards from one block.
+
+## Set Construction (20 pts)
+Build your deck exclusively from cards from a single set. This also automatically qualifies for Block Construction.
+
+## Mono Color (10 pts)
+Essentially be Color Locked to a single color.
 
 <a id="Banlist"></a>
 # Banlist
