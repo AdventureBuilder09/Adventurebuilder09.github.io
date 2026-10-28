@@ -289,7 +289,9 @@ Have more than 10% of your starting deck be creatures with at least three differ
  If you qualify for the Tribal bonus, you also get 15 points for each additional creature type that each non-changeling creature in your decklist shares.
 
 ## Bookworm (20 pts)
-Every artifact in your decklist is a [Book](https://scryfall.com/search?q=t%3Abook) 
+Every artifact in your decklist is a [Book](https://scryfall.com/search?q=t%3Abook), and you are running at least 20% artifacts.
+### Bookwormlet (5 pts)
+Every artifact in your decklist is a [Book](https://scryfall.com/search?q=t%3Abook).
 <a id="Banlist"></a>
 # Banlist
 
