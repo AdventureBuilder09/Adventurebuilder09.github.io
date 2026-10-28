@@ -257,6 +257,8 @@ Mind's Desire - 5
 Yawgmoth's Will - 5
 
 Golgari Grave-Troll - 5
+
+Rocket-Powered Turbo Slug - 10
 <a id="Quests"></a>
 # Quests
 
