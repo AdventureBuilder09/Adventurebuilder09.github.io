@@ -106,6 +106,7 @@ The point value for each vanguard follows the following rules:
 	- [Ertai](https://scryfall.com/card/pvan/101/ertai) - 10 pts
 	- [Elvish Champion](https://scryfall.com/card/pmoa/37/elvish-champion-avatar) - -20 (so a total value of 40)
 	- [Hanna](https://scryfall.com/card/pvan/204/hanna) - 10 pts
+	- [Mishra](https://scryfall.com/cards/05c8de73-fd56-49fa-aa17-d04ff1847f8d)
 
 <a id="Conspiracies"></a>
 ### Conspiracies
