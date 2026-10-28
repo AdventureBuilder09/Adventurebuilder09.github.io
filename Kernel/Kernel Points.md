@@ -30,9 +30,10 @@
 The goal is to make a true kitchen-table format with a minimal banlist that allows for nearly unlimited deckbuilding freedom, while keeping a balanced format.
 
 In that light, Un-cards are legal! Good luck finding synergistic ones without any common deckbuilding sites!
+
 Similarly, Unknown Event cards, Heroes of the Realm cards, Digital Only Cards (including PAST cards, which scryfall can handle; also [EDH Silver](https://edhsilver.com/cards/uo/ast/faerie-dragon/)), and others are also legal.
 
-Sadly, not all vanguards are legal since some of them are too good.
+Unfortunately this is limited to *only* the cards on scryfall. This is basically everything except unglued 2 the obligatory sequel and inQuest cutout cards.
 
 The primary deckbuilding rule is Points. The base deck size (without Advantageous Proclamation) is 60, but there is no limit. You get 1 point to spend for every card in your deck (so you can run at most 4 advantageous proclamations not counting quests), plus more by having your deck fulfill certain restrictions (See [Quests](#Quests)), and your deck is legal as long as the number of points you have is more than the total point cost of your deck (See [Point Values](#Point%20Values)).
 
@@ -65,7 +66,7 @@ So to run 4 of a card, that would cost (0+1+2+3)=6pts, but to run 5 that would c
 
 Having constant access to one or more cards/abilities is very powerful \**cough* ***Lurrus*** *cough*\*. Therefore cards that you always have access to are very expensive. I did try to give good rebates with quests though.
 
-You may have a total of one Commander (or legal partner pairing), with up to one signature spell, OR one vanguard, and as many conspiracies as you can afford.
+You may have a total of one Commander (or legal partner pairing), with up to one signature spell, OR one vanguard, and up to three conspiracies.
 <a id="Commanders"></a>
 ### Commanders
 
@@ -320,6 +321,7 @@ If a card would be destroyed, instead exile it. Then remove it from the game. Th
 
 <a id="Changelog"></a>
 # Changelog
+- Limited conspiracies to 3 and deck size to 500
 - Changed vanguard points rulings
 - Added values for Yawgmoth's Will, Mind's Desire, and Golgari Grave-Troll
 - Added Changelog
