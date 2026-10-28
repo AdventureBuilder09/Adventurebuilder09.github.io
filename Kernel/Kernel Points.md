@@ -87,7 +87,9 @@ Commander Artifact - 100
 Signature Spell (Cast only while you control your commander **permanent**) - 30
 - You may not have a signature spell if you have a commander instant/sorcery (including Ashaya's Enduring Bond)
 
+### Banned as Commander
 
+The points cards are very powerful, and most of them are too powerful to be in the command zone. This is because most points cards are fast mana, but having DT as a signature is not great for the format either.
 <a id="Vanguards"></a>
 ### Vanguards
 
@@ -241,13 +243,15 @@ Tinker - 10
 
 Flash - 10
 
+Protean Hulk - 5
+
 Time Vault - 5
 
 Time Walk - 5
 
 Oracle of the Alpha - 10
 
-Mind's Desire - 10
+Mind's Desire - 5
 
 Yawgmoth's Will - 5
 
