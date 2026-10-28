@@ -319,6 +319,7 @@ These are similar to dexterity cards, but easier to pull off in digital formats
 
 If a card would be destroyed, instead exile it. Then remove it from the game. Then put it into the absolutely-removed-from-the-freaking-game-forever zone (treat it as though it doesn't exist).
 
+It doesn't return to the command zone.
 <a id="Changelog"></a>
 # Changelog
 - Limited conspiracies to 3 and deck size to 500
