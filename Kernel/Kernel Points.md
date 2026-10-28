@@ -266,10 +266,10 @@ Rocket-Powered Turbo Slug - 10
 <a id="Quests"></a>
 # Quests
 
-You can also make your deck better by fulfilling certain restrictions. Yes this is a very original idea that I came up independently of the companion mechanic.
+You can also make your deck better by fulfilling certain restrictions. Yes, this is a very original idea that I came up independently of the companion mechanic.
 
 ### Singleton (20 pts)
-You earn the singleton reward by spending no points on duplicate cards. You can still play 6 [Seven Dwarves](https://scryfall.com/card/eld/141/seven-dwarves) if you want. 
+You earn the singleton reward by spending no points on duplicate cards. (You can still play 6 [Seven Dwarves](https://scryfall.com/card/eld/141/seven-dwarves) if you want)
 
 ## Color Locked (10 pts)
 Exclusively if you have a commander permanent. You are Color Locked if every card in your starting deck is within your commanders(s) total color identity
@@ -288,10 +288,10 @@ Have more than 10% of your starting deck be creatures with at least three differ
 ### Pure Tribal (15+ pts)
  If you qualify for the Tribal bonus, you also get 15 points for each additional creature type that each non-changeling creature in your decklist shares.
 
-## Bookworm (20 pts)
-Every artifact in your decklist is a [Book](https://scryfall.com/search?q=t%3Abook), and you are running at least 20% artifacts.
-### Bookwormlet (5 pts)
+## Bookwormlet (5 pts)
 Every artifact in your decklist is a [Book](https://scryfall.com/search?q=t%3Abook).
+### Bookworm (15 pts)
+Every artifact in your decklist is a [Book](https://scryfall.com/search?q=t%3Abook), and you are running at least 20% artifacts.
 <a id="Banlist"></a>
 # Banlist
 
