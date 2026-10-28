@@ -349,6 +349,7 @@ If a card would be destroyed, instead exile it. Then remove it from the game. Th
 It doesn't return to the command zone.
 <a id="Changelog"></a>
 # Changelog
+- Added more quests
 - Limited conspiracies to 3 and deck size to 500
 - Changed vanguard points rulings
 - Added values for Yawgmoth's Will, Mind's Desire, and Golgari Grave-Troll
