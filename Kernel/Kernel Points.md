@@ -271,6 +271,7 @@ You earn the singleton reward by spending no points on duplicate cards. You can 
 ## Color Locked (10pts)
 Exclusively if you have a commander permanent. You are Color Locked if every card in your starting deck is within your commanders(s) total color identity
 
+## Block Construction (50)
 
 <a id="Banlist"></a>
 # Banlist
