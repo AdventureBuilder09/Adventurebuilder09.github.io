@@ -39,6 +39,10 @@ The primary deckbuilding rule is Points. The base deck size (without Advantageou
 
 I must give a big thanks to the [Home of the UnCommander Variant - EDH Silver](https://edhsilver.com/). They are a great resource for weird, wacky, and wonderful un-heard (of) cards, and I did take a little (not a lot) of inspiration for rules when making this format
 
+## Idioms used
+### Decklist
+Your decklist includes every card in your maindeck (which you shuffle as you start the game), command zone, and sideboard.
+
 ## Speed goals
 
 Combo decks make attempts T2-3, Aggro threatens game shortly afterwards. 
@@ -265,7 +269,6 @@ Rocket-Powered Turbo Slug - 10
 You can also make your deck better by fulfilling certain restrictions. Yes this is a very original idea that I came up independently of the companion mechanic.
 
 ### Singleton (20 pts)
-
 You earn the singleton reward by spending no points on duplicate cards. You can still play 6 [Seven Dwarves](https://scryfall.com/card/eld/141/seven-dwarves) if you want. 
 
 ## Color Locked (10 pts)
@@ -280,6 +283,13 @@ Build your deck exclusively from cards from a single set. This also automaticall
 ## Mono Color (10 pts)
 Essentially be Color Locked to a single color.
 
+## Tribal (10 pts)
+Have more than 10% of your starting deck be creatures with at least three different names, and every creature in your decklist share a creature type.
+### Pure Tribal (15+ pts)
+ If you qualify for the Tribal bonus, you also get 15 points for each additional creature type that each non-changeling creature in your decklist shares.
+
+## Bookworm (20 pts)
+Every artifact in your decklist is a [Book](https://scryfall.com/search?q=t%3Abook) 
 <a id="Banlist"></a>
 # Banlist
 
