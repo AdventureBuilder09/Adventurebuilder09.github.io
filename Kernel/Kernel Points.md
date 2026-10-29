@@ -64,6 +64,7 @@ Playing more than the singleton value of a card (1 for most cards, 9 for nazgul,
 
 So to run 4 of a card, that would cost (0+1+2+3)=6pts, but to run 5 that would cost 10 pts, 15pts for 6, ect.
 
+[This](https://www.desmos.com/calculator/lby1zfpiui) is a calculator that gives the optimization for how many copies of a card to run (https://www.desmos.com/calculator/lby1zfpiui)
 
 <a id="Command Zone"></a>
 ## Command Zone
@@ -76,17 +77,11 @@ You may have a total of one Commander (or legal partner pairing), with up to one
 
 The commander will take the value of the first criteria from among the following:
 
-Commander Land - 105
-
-Commander Legendary Creature/Planeswalker or rulebreaker equivalent (I.E. Shorikai, partner pairings) - 80
-
-Commander Enchantment/Nonlegendary Creature - 85
-
-Commander Instant/Sorcery - 90
-
-Commander Artifact CMC >1 - 95
-
-Commander Artifact - 100
+- Land - 105
+- Legendary Creature/Planeswalker or rulebreaker equivalent (I.E. Shorikai, Partner pairings) - 80
+- Enchantment/Legendary Artifact/Nonlegendary Creature - 85
+- Instant/Sorcery - 90
+- Artifact - 100
 
 Signature Spell (Cast only while you control your commander **permanent**) - 30
 - You may not have a signature spell if you have a commander instant/sorcery (including Ashaya's Enduring Bond)
@@ -110,7 +105,7 @@ The point value for each vanguard follows the following rules:
 	- [Ertai](https://scryfall.com/card/pvan/101/ertai) - 10 pts
 	- [Elvish Champion](https://scryfall.com/card/pmoa/37/elvish-champion-avatar) - -20 (so a total value of 40)
 	- [Hanna](https://scryfall.com/card/pvan/204/hanna) - 10 pts
-	- [Mishra](https://scryfall.com/cards/05c8de73-fd56-49fa-aa17-d04ff1847f8d)
+	- [Mishra](https://scryfall.com/cards/05c8de73-fd56-49fa-aa17-d04ff1847f8d) - 5 pts
 
 <a id="Conspiracies"></a>
 ### Conspiracies
@@ -167,9 +162,7 @@ Chrome Mox - 10
 
 Mox Diamond - 15
 
-Mox Opal - 15
-
-
+Mox Opal - 10
 <a id="Rituals"></a>
 ### Rituals
 
@@ -203,7 +196,7 @@ Urza's Fun House - 30
 
 Cloudpost - 5
 
-Nearby Planet - 5
+Nearby Planet - 2
 
 Strip Mine - 5
 
@@ -242,10 +235,6 @@ Demonic Consultation - 20
 
 Tinker - 10
 
-[Elminster](https://edhsilver.com/cards/uo/inq/elminster/) (the inQuest one) - 10
-
-- [Ruling for Elminster's ability](#Elminster)
-
 Flash - 10
 
 Protean Hulk - 5
@@ -263,6 +252,16 @@ Yawgmoth's Will - 5
 Golgari Grave-Troll - 5
 
 Rocket-Powered Turbo Slug - 10
+
+Blazing Shoal - 5
+
+Glistener Elf - 2
+
+Blighted Agent - 3
+
+Inkmoth Nexus - 5
+
+Tainted Strike - 5
 <a id="Quests"></a>
 # Quests
 
@@ -314,7 +313,6 @@ Pretty self explanatory. There are strictly better cards and this isn't the spac
 - [Landfill](https://edhsilver.com/cards/uc/ugl/landfill/)
 - [Ol’ Buzzbark](https://edhsilver.com/cards/uc/ust/ol-buzzbark/)
 - [Orcish Paratroopers](https://edhsilver.com/cards/uc/unh/orcish-paratroopers/)
-- [Order Orb](https://edhsilver.com/cards/uo/inq/order-orb/)
 - [Phyrexian Librarian](https://edhsilver.com/cards/uc/unh/phyrexian-librarian/)
 - [Pointy Finger of Doom](https://edhsilver.com/cards/uc/unh/pointy-finger-of-doom/)
 - [Slaying Mantis](https://edhsilver.com/cards/uc/ust/slaying-mantis/)
@@ -333,14 +331,12 @@ These can be fun, but you must check with your opponent ***before the game start
 
 ## Time-Sensitive Cards
 
-These are similar to dexterity cards, but easier to pull off in digital formats
+These are similar to dexterity cards, but easier to pull off in digital formats.
 
-
-
+## InQuest Cards (and others not in scryfall)
+Most sites build their databases from scryfall, so if scryfall doesn't have it, it's unlikely anywhere else will either. Therefore [Elminster](https://edhsilver.com/cards/uo/inq/elminster/) is not legal.
 <a id="Rulings"></a>
 # Rulings
-<a id="Elminster"></a>
-[Elminster](https://edhsilver.com/cards/uo/inq/elminster/) (the Advanced Dungeons & Dragons – InQuest #41 one) has an ability similar to that of [Trampled Lotus](https://scryfall.com/card/unk/RA12b/trampled-lotus). You choose the card face down while activating the ability, but do not reveal it until the ability resolves (which is usually immediately).
 
 
 Commanders don't grant extra points. It's only cards in your maindeck.
@@ -351,6 +347,7 @@ If a card would be destroyed, instead exile it. Then remove it from the game. Th
 It doesn't return to the command zone.
 <a id="Changelog"></a>
 # Changelog
+- Banned De Facto the InQuest Cards
 - Added more quests
 - Limited conspiracies to 3 and deck size to 500
 - Changed vanguard points rulings
