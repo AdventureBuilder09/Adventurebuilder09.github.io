@@ -40,6 +40,7 @@ The primary deckbuilding rule is Points. The base deck size (without Advantageou
 I must give a big thanks to the [Home of the UnCommander Variant - EDH Silver](https://edhsilver.com/). They are a great resource for weird, wacky, and wonderful un-heard (of) cards, and I did take a little (not a lot) of inspiration for rules when making this format
 
 ## Idioms used
+<a id="Decklist"></a>
 ### Decklist
 Your decklist includes every card in your maindeck (which you shuffle as you start the game), command zone, and sideboard.
 
@@ -294,14 +295,14 @@ Build your deck exclusively from cards from a single set. This also automaticall
 Essentially be Color Locked to a single color.
 
 ## Tribal (10 pts)
-Have more than 10% of your starting deck be creatures with at least three different names, and every creature in your decklist share a creature type.
+Have at least 15% of your starting deck be creatures with at least three different names, and every creature in your [decklist](#Decklist) share a creature type.
 ### Pure Tribal (15+ pts)
  If you qualify for the Tribal bonus, you also get 15 points for each additional creature type that each non-changeling creature in your decklist shares.
 
 ## Bookwormlet (5 pts)
-Every artifact in your decklist is a [Book](https://scryfall.com/search?q=t%3Abook).
+Every artifact in your [decklist](#Decklist) is a [Book](https://scryfall.com/search?q=t%3Abook).
 ### Bookworm (15 pts)
-Every artifact in your decklist is a [Book](https://scryfall.com/search?q=t%3Abook), and you are running at least 20% artifacts.
+Every artifact in your [decklist](#Decklist) is a [Book](https://scryfall.com/search?q=t%3Abook), and you are running at least 20% artifacts.
 
 
 <a id="Banlist"></a>
