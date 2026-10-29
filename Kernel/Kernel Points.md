@@ -83,7 +83,7 @@ The commander will take the value of the first criteria from among the following
 - Instant/Sorcery - 90
 - Artifact - 100
 
-Signature Spell (Cast only while you control your commander **permanent**) - 30
+Signature Spell (Cast only while you control your commander **permanent**) - 40
 - You may not have a signature spell if you have a commander instant/sorcery (including Ashaya's Enduring Bond)
 
 ### Banned as Commander
@@ -142,7 +142,8 @@ Other Conspiracies - 20
 <a id="Fast Mana"></a>
 ## Fast Mana
 <a id="Moxen"></a>
-### Moxen
+<a id="Rituals"></a>
+### Rituals / Moxen
 
 Mox Pearl - 15
 
@@ -163,14 +164,12 @@ Chrome Mox - 10
 Mox Diamond - 15
 
 Mox Opal - 10
-<a id="Rituals"></a>
-### Rituals
 
 Black Lotus - 25
 
-Lotus Petal - 3
-
 Blacker Lotus - 25
+
+Lion's Eye Diamond - 10
 
 Mana Crypt - 20
 
@@ -182,7 +181,13 @@ Mana Vault - 15
 
 Channel - 20
 
-Lion's Eye Diamond - 10
+Lotus Petal - 3
+
+Simian Spirit Guide - 2
+
+Elvish Spirit Guide - 2
+
+
 <a id="Lands"></a>
 ### Lands
 
@@ -223,15 +228,16 @@ Mystical Tutor - 5
 
 Merchant Scroll - 5
 
-Demonic Consultation - 10
-<a id="General Power"></a>
-## General Power
+Demonic Consultation - 20
 
 Ad Nauseam - 40
 
+<a id="General Power"></a>
+## General Power / Combo Pieces
+
 Thassa's Oracle - 40
 
-Demonic Consultation - 20
+Oracle of the Alpha - 10
 
 Tinker - 10
 
@@ -243,18 +249,18 @@ Time Vault - 5
 
 Time Walk - 5
 
-Oracle of the Alpha - 10
-
 Mind's Desire - 5
 
 Yawgmoth's Will - 5
 
 Golgari Grave-Troll - 5
 
-Rocket-Powered Turbo Slug - 10
+## Aggro/Turbo
+Rocket-Powered Turbo Slug - 5
 
 Blazing Shoal - 5
 
+## Infect
 Glistener Elf - 2
 
 Blighted Agent - 3
@@ -272,6 +278,9 @@ You earn the singleton reward by spending no points on duplicate cards. (You can
 
 ## Color Locked (10 pts)
 Exclusively if you have a commander permanent. You are Color Locked if every card in your starting deck is within your commanders(s) total color identity
+
+## On-Color Signature Spell (10 pts)
+If your Signature Spell is in the same color identity as your commander, you get a reasonable rebate.
 
 ## Block Construction (30 pts)
 Build your deck from exclusively cards from one block.
@@ -347,6 +356,8 @@ If a card would be destroyed, instead exile it. Then remove it from the game. Th
 It doesn't return to the command zone.
 <a id="Changelog"></a>
 # Changelog
+- Added values for a few cheap infect enablers and blazing shoal.
+- Changed some Commander rulings (Legendary Artifacts are now cheaper to run)
 - Banned De Facto the InQuest Cards
 - Added more quests
 - Limited conspiracies to 3 and deck size to 500
