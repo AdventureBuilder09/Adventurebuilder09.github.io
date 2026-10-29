@@ -283,14 +283,14 @@ Exclusively if you have a commander permanent. You are Color Locked if every car
 If your Signature Spell is in the same color identity as your commander, you get a reasonable rebate.
 
 ## Dual Mono SS (10 pts)
-If your signature spell
+If your signature spell and commander each have less than one color in their color identity
 
 ## Block Construction (30 pts)
 Build your deck from exclusively cards from one block.
-### Set Construction (20 pts)
+### Set Construction (30 pts)
 Build your deck exclusively from cards from a single set. This also automatically qualifies for Block Construction.
 
-## Mono Color (10 pts)
+## Mono Color (20 pts)
 Essentially be Color Locked to a single color.
 
 ## Tribal (10 pts)
