@@ -273,19 +273,21 @@ Tainted Strike - 5
 
 You can also make your deck better by fulfilling certain restrictions. Yes, this is a very original idea that I came up independently of the companion mechanic.
 
-### Singleton (20 pts)
+### Singleton (30 pts)
 You earn the singleton reward by spending no points on duplicate cards. (You can still play 6 [Seven Dwarves](https://scryfall.com/card/eld/141/seven-dwarves) if you want)
 
-## Color Locked (10 pts)
+## Color Locked (15 pts)
 Exclusively if you have a commander permanent. You are Color Locked if every card in your starting deck is within your commanders(s) total color identity
 
-## On-Color Signature Spell (10 pts)
+## On-Color Signature Spell (15 pts)
 If your Signature Spell is in the same color identity as your commander, you get a reasonable rebate.
+
+## Dual Mono SS (10 pts)
+If your signature spell
 
 ## Block Construction (30 pts)
 Build your deck from exclusively cards from one block.
-
-## Set Construction (20 pts)
+### Set Construction (20 pts)
 Build your deck exclusively from cards from a single set. This also automatically qualifies for Block Construction.
 
 ## Mono Color (10 pts)
@@ -300,6 +302,8 @@ Have more than 10% of your starting deck be creatures with at least three differ
 Every artifact in your decklist is a [Book](https://scryfall.com/search?q=t%3Abook).
 ### Bookworm (15 pts)
 Every artifact in your decklist is a [Book](https://scryfall.com/search?q=t%3Abook), and you are running at least 20% artifacts.
+
+
 <a id="Banlist"></a>
 # Banlist
 
@@ -356,6 +360,8 @@ If a card would be destroyed, instead exile it. Then remove it from the game. Th
 It doesn't return to the command zone.
 <a id="Changelog"></a>
 # Changelog
+- Improved singleton and colorlock quest rewards.
+- Made Signature Spells more expensive, but added a rebate quest that makes it cheaper than before
 - Added values for a few cheap infect enablers and blazing shoal.
 - Changed some Commander rulings (Legendary Artifacts are now cheaper to run)
 - Banned De Facto the InQuest Cards
