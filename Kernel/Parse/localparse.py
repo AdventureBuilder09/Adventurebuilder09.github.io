@@ -57,8 +57,8 @@ async def process_text(event):
                     if current_line.contains(target):
                       pts = pts - score
 
-                val = int()
-                pts = pts - int()
+                val = float(re.search("^\\d+",line).group())
+                pts = pts - int((val * val / 2) - (val / 2))
                     
 
             # 4. Join back and display in the output textarea
