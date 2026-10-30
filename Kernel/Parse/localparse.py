@@ -1,6 +1,37 @@
 import json
 import re
 import js
+"""
+<br>
+<!-- Simply display the live, self-updating image badge directly -->
+<img src="" alt="Workflow Status">
+<div class="badge-container">
+    <h4>Live Deployment Monitor</h4>
+    <!-- The script will populate the src attribute here -->
+    <img id="live-workflow-badge" src="" alt="Checking workflow status...">
+</div>
+
+<script>
+    function refreshBadge() {
+        const badgeImg = document.getElementById('live-workflow-badge');
+        
+        // Use a timestamp to destroy the browser's attempt to cache the image
+        const cacheBuster = new Date().getTime();
+        
+        // Construct the official URL with the anti-cache parameter attached
+        const liveBadgeUrl = `https://github.com/AdventureBuilder09/Adventurebuilder09.github.io/actions/workflows/pages-build-deployment/badge.svg?v=${cacheBuster}`;
+        
+        // Update the image element
+        badgeImg.src = liveBadgeUrl;
+    }
+
+    // 1. Run immediately when the user lands on the page
+    refreshBadge();
+
+    // 2. Refresh the image automatically every 10 seconds to catch live builds
+    setInterval(refreshBadge, 10000); 
+</script>
+"""
 async def process_text(event):
       try:
             # 1. Grab input text from the textarea
