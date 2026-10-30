@@ -47,7 +47,7 @@ async def process_text(event):
 
             # 3. Process lines (example: uppercase words or apply replacement rules from JSON)
             lines = decklist.splitlines()
-            pts = lines.length()
+            pts = len(lines)
             
             replacement_map = config_data.get("replacements", {})
 
