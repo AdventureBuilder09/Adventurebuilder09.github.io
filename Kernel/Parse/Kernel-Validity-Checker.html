@@ -10,20 +10,20 @@
 </head>
 <body>
 <!-- Latest update -->
-<div id="build-status">Checking sync status...</div>
+<div id="build-status">Checking commit status...</div>
 <script>
   fetch('https://api.github.com/repos/Adventurebuilder09/adventurebuilder09.github.io/commits/main')
     .then(response => response.json())
     .then(data => {
       const latestCommitDate = new Date(data.commit.committer.date);
       document.getElementById('build-status').innerText = 
-        `Synced with GitHub commit from: ${latestCommitDate.toLocaleString()}`;
+        `Last commit time: ${latestCommitDate.toLocaleString()}`;
     })
     .catch(error => {
-      document.getElementById('build-status').innerText = 'Could not get status.';
+      document.getElementById('build-status').innerText = 'Could not get last commit date.';
     });
 </script>
-<p>Last site build time: {{ site.time | date: "%Y-%m-%d %H:%M:%S" }}</p>
+<p>Last site build time: {{ site.time | date: "%Y/%m/%d, %H:%M:%S" }}</p>
 <py-config>
     {
         "files": {
