@@ -10,6 +10,7 @@ async def process_text(event):
             try:
                 with open("points.json", "r") as f:
                     cardDB = json.load(f)
+                    js.document.getElementById("output-text").value = String(cardDb)
             except Exception as e:
                 js.document.getElementById("output-text").value = f"Error loading JSON: {e}"
                 return
