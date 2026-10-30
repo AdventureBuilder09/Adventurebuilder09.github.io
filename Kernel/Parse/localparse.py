@@ -40,7 +40,7 @@ async def process_text(event):
             # 2. Load the JSON configuration file (pre-fetched via config)
             try:
                 with open("points.json", "r") as f:
-                    cardDB = json.load(f)
+                    replacement_map = json.load(f)
             except Exception as e:
                 js.document.getElementById("output-text").value = f"Error loading JSON: {e}"
                 return
@@ -48,8 +48,6 @@ async def process_text(event):
             # 3. Process lines (example: uppercase words or apply replacement rules from JSON)
             lines = decklist.splitlines()
             pts = len(lines)
-            
-            replacement_map = config_data.get("replacements", {})
 
             for line in lines:
                 # Apply simple custom processing rules defined in JSON
