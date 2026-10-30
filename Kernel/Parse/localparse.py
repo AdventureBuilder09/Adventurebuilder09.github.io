@@ -55,7 +55,10 @@ async def process_text(event):
                 # Apply simple custom processing rules defined in JSON
                 for target, score in replacement_map.items():
                     if current_line.contains(target):
-                      pts = pts + score
+                      pts = pts - score
+
+                val = int()
+                pts = pts - int()
                     
 
             # 4. Join back and display in the output textarea
