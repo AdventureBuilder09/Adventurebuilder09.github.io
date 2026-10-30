@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PyScript Text Processor</title>
+    <!-- Link to PyScript CSS and JS -->
+    <link rel="stylesheet" href="https://pyscript.net/releases/2024.1.1/core.css">
+    <script type="module" src="https://pyscript.net/releases/2024.1.1/core.js"></script>
+</head>
+<body>
+
+    <main style="max-width: 800px; margin: 40px auto; font-family: sans-serif; padding: 0 20px;">
+<div id="build-status">Checking sync status...</div>
+
+<script>
+	const OWNER = 'AdventureBuilder09';
+        const REPO = 'Adventurebuilder09.github.io';
+        
+        // Optional: Include if your repository is private (Do not leak secret keys in public HTML!)
+        const TOKEN = ''; 
+
+        async function getWorkflowStatus() {
+            const url = `https://github.com/AdventureBuilder09/Adventurebuilder09.github.io/actions/runs?per_page=1`;
+            
+            const headers = {
+                'Accept': 'application/vnd.github+json'
+            };
+            if (TOKEN) {
+                headers['Authorization'] = `Bearer ${TOKEN}`;
+            }
+
+            try {
+                const response = await fetch(url, { headers });
+                if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+                
+                const data = await response.json();
+                
+                if (data.workflow_runs && data.workflow_runs.length > 0) {
+                    const latestRun = data.workflow_runs[0];
+                    displayStatus(latestRun);
+                } else {
+                    document.getElementById('build-status').innerText = "No workflow runs found.";
+                }
+            } catch (error) {
+                console.error("Error fetching workflow status:", error);
+                document.getElementById('build-status').innerText = "Failed to load status.";
+            }
+        }
+
+        function displayStatus(run) {
+            const container = document.getElementById('build-status');
+            
+            // Determine final state: use conclusion if finished, otherwise show live status
+            const finalStatus = run.status === 'completed' ? run.conclusion : run.status;
+            
+            // Map CSS classes for styling
+            let statusClass = 'in_progress';
+            if (finalStatus === 'success') statusClass = 'success';
+            if (finalStatus === 'failure') statusClass = 'failure';
+
+            container.innerHTML = `
+                <p><strong>Workflow:</strong> ${run.name}</p>
+                <p><strong>Triggered by:</strong> ${run.event} on branch <code>${run.head_branch}</code></p>
+                <p><strong>Status:</strong> <span class="status ${statusClass}">${finalStatus.toUpperCase()}</span></p>
+                <p><a href="${run.html_url}" target="_blank">View run details on GitHub</a></p>
+            `;
+        }
+
+        // Run the function when the page loads
+        getWorkflowStatus();
+</script>
+</body>
+</html>

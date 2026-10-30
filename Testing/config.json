@@ -1,0 +1,6 @@
+{
+  "replacements": {
+    "foo": "bar",
+    "TODO": "COMPLETED"
+  }
+}
