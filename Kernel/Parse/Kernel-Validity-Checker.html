@@ -50,9 +50,12 @@
     setInterval(refreshBadge, 10000); 
 </script>
 <py-config>
-    files = {
-        "./localparse.py": "./localparse.py",
-        "./displayCard.py": "./displayCard.py"
+    {
+        files = {
+            "./localparse.py": "./localparse.py",
+            "./displayCard.py": "./displayCard.py"
+        },
+        "packages": ["numpy"]
     }
 </py-config>
 
