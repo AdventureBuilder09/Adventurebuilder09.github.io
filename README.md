@@ -5,3 +5,5 @@ WIP, probably going to forget this exists, but a good way to (hopefully) share i
 - [WIP Kernel Deck Checker (Disfunctional)](Kernel/Parse/Kernel-Validity-Checker.html)
 - 
 - [Mage Duels - WIP TCG](Mage%20Duels/Overview)
+- 
+  test
