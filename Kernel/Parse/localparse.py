@@ -50,8 +50,8 @@ async def process_text(event):
         lines = decklist.splitlines()
         
         pts = len(lines)
-        js.document.getElementById("output-text").value = type(pts)
-        time.sleep(1)
+        js.document.getElementById("output-text").value = str(replacement_map)
+        time.sleep(3)
         """
         for line in lines:
             js.document.getElementById("output-text").value = f"Parsing line {line}"
@@ -63,11 +63,11 @@ async def process_text(event):
 
             val = float(re.search("^\\d+",line).group())
             pts = pts - int((val * val / 2) - (val / 2))
-               """     
+               
 
             # 4. Join back and display in the output textarea
         final_output = f"Points value: {pts}"
-        js.document.getElementById("output-text").value = final_output
+        js.document.getElementById("output-text").value = final_output"""
       except Exception as e:
         time.sleep(1)
         js.document.getElementById("output-text").value = f"Uncaught PY Error: {e}"
