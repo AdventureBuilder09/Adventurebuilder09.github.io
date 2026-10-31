@@ -53,7 +53,7 @@ async def process_text(event):
 
         for line, linenum in lines:
             js.document.getElementById("output-text").value = f"Parsing line {linenum}"
-            time.sleep(0.75)
+            time.sleep(1)
                 # Apply simple custom processing rules defined in JSON
             for target, score in replacement_map.items():
                 if (target in line):
@@ -67,4 +67,5 @@ async def process_text(event):
         final_output = f"Points value: {pts}"
         js.document.getElementById("output-text").value = final_output
       except Exception as e:
+        time.sleep(1)
         js.document.getElementById("output-text").value = f"Uncaught PY Error: {e}"
