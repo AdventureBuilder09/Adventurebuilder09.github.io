@@ -52,7 +52,7 @@ async def process_text(event):
         pts = len(lines)
         js.document.getElementById("output-text").value = type(pts)
         time.sleep(1)
-
+        """
         for line in lines:
             js.document.getElementById("output-text").value = f"Parsing line {line}"
             time.sleep(1)
@@ -63,7 +63,7 @@ async def process_text(event):
 
             val = float(re.search("^\\d+",line).group())
             pts = pts - int((val * val / 2) - (val / 2))
-                    
+               """     
 
             # 4. Join back and display in the output textarea
         final_output = f"Points value: {pts}"
