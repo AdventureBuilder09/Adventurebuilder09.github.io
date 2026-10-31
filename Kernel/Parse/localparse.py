@@ -1,6 +1,7 @@
 import json
 import re
 import js
+import time
 """
 <br>
 <!-- Simply display the live, self-updating image badge directly -->
@@ -34,33 +35,42 @@ import js
 """
 async def process_text(event):
       try:
-            # 1. Grab input text from the textarea
-            decklist = js.document.getElementById("input-text").value
+        js.document.getElementById("output-text").value = "Starting up"
+        time.sleep(1)
+        # 1. Grab input text from the textarea
+        decklist = js.document.getElementById("input-text").value
             
+        js.document.getElementById("output-text").value = "Acquired decklist"
+        time.sleep(1)
             # 2. Load the JSON configuration file (pre-fetched via config)
-            try:
+        try:
                 with open("points.json", "r") as f:
                     replacement_map = json.load(f)
-            except Exception as e:
+        except Exception as e:
                 js.document.getElementById("output-text").value = f"Error loading JSON: {e}"
                 return
 
+        js.document.getElementById("output-text").value = "Acquired points.json"
+        time.sleep(1)
             # 3. Process lines (example: uppercase words or apply replacement rules from JSON)
-            lines = decklist.splitlines()
-            pts = len(lines)
+        lines = decklist.splitlines()
+        
+        js.document.getElementById("output-text").value = "Split decklist by lines"
+        time.sleep(1)
+        pts = len(lines)
 
-            for line in lines:
+        for line in lines:
                 # Apply simple custom processing rules defined in JSON
-                for target, score in replacement_map.items():
-                    if current_line.contains(target):
-                      pts = pts - score
+            for target, score in replacement_map.items():
+                if current_line.contains(target):
+                  pts = pts - score
 
-                val = float(re.search("^\\d+",line).group())
-                pts = pts - int((val * val / 2) - (val / 2))
+            val = float(re.search("^\\d+",line).group())
+            pts = pts - int((val * val / 2) - (val / 2))
                     
 
             # 4. Join back and display in the output textarea
-            final_output = f"Points value: {pts}"
-            js.document.getElementById("output-text").value = final_output
+        final_output = f"Points value: {pts}"
+        js.document.getElementById("output-text").value = final_output
       except Exception as e:
         js.document.getElementById("output-text").value = f"Uncaught PY Error: {e}"
