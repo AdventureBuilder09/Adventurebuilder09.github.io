@@ -38,8 +38,6 @@ async def process_text(event):
         # 1. Grab input text from the textarea
         decklist = js.document.getElementById("input-text").value
             
-        js.document.getElementById("output-text").value = "Acquired decklist"
-        time.sleep(1)
             # 2. Load the JSON configuration file (pre-fetched via config)
         try:
                 with open("points.json", "r") as f:
@@ -48,8 +46,6 @@ async def process_text(event):
                 js.document.getElementById("output-text").value = f"Error loading JSON: {e}"
                 return
 
-        js.document.getElementById("output-text").value = "Acquired points.json"
-        time.sleep(1)
             # 3. Process lines (example: uppercase words or apply replacement rules from JSON)
         lines = decklist.splitlines()
         
