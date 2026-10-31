@@ -35,8 +35,6 @@ import time
 """
 async def process_text(event):
       try:
-        js.document.getElementById("output-text").value = "Starting up"
-        time.sleep(1)
         # 1. Grab input text from the textarea
         decklist = js.document.getElementById("input-text").value
             
@@ -62,7 +60,7 @@ async def process_text(event):
         for line in lines:
                 # Apply simple custom processing rules defined in JSON
             for target, score in replacement_map.items():
-                if line.contains(target):
+                if (target in line):
                   pts = pts - score
 
             val = float(re.search("^\\d+",line).group())
