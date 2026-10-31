@@ -53,8 +53,8 @@ async def process_text(event):
         js.document.getElementById("output-text").value = type(pts)
         time.sleep(1)
 
-        for line, linenum in lines:
-            js.document.getElementById("output-text").value = f"Parsing line {linenum}"
+        for line in lines:
+            js.document.getElementById("output-text").value = f"Parsing line {line}"
             time.sleep(1)
                 # Apply simple custom processing rules defined in JSON
             for target, score in replacement_map.items():
