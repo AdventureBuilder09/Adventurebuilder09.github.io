@@ -51,7 +51,6 @@ async def process_text(event):
         js.document.getElementById("output-text").value = str(replacement_map.items())
         
         pts = len(lines)
-        time.sleep(3)
         
         for line in lines:
             js.document.getElementById("output-text").value = f"Parsing line {line}"
@@ -69,5 +68,4 @@ async def process_text(event):
         final_output = f"Points value: {pts}"
         js.document.getElementById("output-text").value = final_output
       except Exception as e:
-        time.sleep(1)
         js.document.getElementById("output-text").value = f"Uncaught PY Error: {e}"
