@@ -23,7 +23,7 @@
       document.getElementById('build-status').innerText = 'Could not get last commit date.';
     });
 </script>
-<p>Last site build time: {{ site.time | date: "%m/%d/%Y, %H:%M:%S" }}</p>
+<p>Last site build time: {{ site.time | date: "%m/%d/%Y, %h:%M:%S" }}</p>
 <py-config>
     {
         "files": {
