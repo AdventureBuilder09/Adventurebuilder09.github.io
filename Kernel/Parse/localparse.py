@@ -53,13 +53,12 @@ async def process_text(event):
         pts = 0
         
         for line in lines:
-                # Apply simple custom processing rules defined in JSON
+            val = float(re.search("^\\d+",line).group())
+            pts = pts + val - int((val * val / 2) - (val / 2))
             for target, score in replacement_map.items():
                 if (target in line):
-                  pts = pts - int(score)
+                  pts = pts - (int(score * val))
 
-            val = float(re.search("^\\d+",line).group())
-            pts = pts - int((val * val / 2) - (val / 2)) + val
                
 
             # 4. Join back and display in the output textarea
