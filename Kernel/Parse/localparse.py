@@ -62,7 +62,7 @@ async def process_text(event):
         for line in lines:
                 # Apply simple custom processing rules defined in JSON
             for target, score in replacement_map.items():
-                if current_line.contains(target):
+                if line.contains(target):
                   pts = pts - score
 
             val = float(re.search("^\\d+",line).group())
