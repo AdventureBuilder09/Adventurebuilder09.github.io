@@ -49,15 +49,15 @@ async def process_text(event):
             # 3. Process lines (example: uppercase words or apply replacement rules from JSON)
         lines = decklist.splitlines()
         
-        js.document.getElementById("output-text").value = "Split decklist by lines"
-        time.sleep(1)
         pts = len(lines)
 
-        for line in lines:
+        for line, linenum in lines:
+            js.document.getElementById("output-text").value = f"Parsing line {linenum}"
+            time.sleep(0.75)
                 # Apply simple custom processing rules defined in JSON
             for target, score in replacement_map.items():
                 if (target in line):
-                  pts = pts - score
+                  pts = pts - int(score)
 
             val = float(re.search("^\\d+",line).group())
             pts = pts - int((val * val / 2) - (val / 2))
