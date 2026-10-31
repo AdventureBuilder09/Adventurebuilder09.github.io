@@ -54,11 +54,21 @@ async def process_text(event):
         
         for line in lines:
             val = float(re.search("^\\d+",line).group())
-            pts = pts + val - int((val * val / 2) - (val / 2))
             for target, score in replacement_map.items():
-                if (target in line):
+                if (target.casefold() in line.casefold()):
                   pts = pts - (int(score * val))
 
+            pts = pts + val
+            for target in replacement_map.get("Singleton Problems in the backend of my program"):
+              if (target.casefold() in line.casefold()):
+                val = 0
+            if ("nazgul" in line.casefold()):
+              val = max(0, val - 9)
+            if ("nazgûl" in line.casefold()):
+              val = max(0, val - 9)
+            if ("seven dwarves" in line.casefold()):
+              val = max(0, val - 7)
+            pts = pts - int((val * val / 2) - (val / 2))
                
 
             # 4. Join back and display in the output textarea
