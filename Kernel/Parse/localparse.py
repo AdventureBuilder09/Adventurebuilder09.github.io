@@ -50,6 +50,8 @@ async def process_text(event):
         lines = decklist.splitlines()
         
         pts = len(lines)
+        js.document.getElementById("output-text").value = type(pts)
+        time.sleep(1)
 
         for line, linenum in lines:
             js.document.getElementById("output-text").value = f"Parsing line {linenum}"
