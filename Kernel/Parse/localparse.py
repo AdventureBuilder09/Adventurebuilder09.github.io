@@ -48,9 +48,9 @@ async def process_text(event):
 
             # 3. Process lines (example: uppercase words or apply replacement rules from JSON)
         lines = decklist.splitlines()
+        js.document.getElementById("output-text").value = str(replacement_map.items())
         
         pts = len(lines)
-        js.document.getElementById("output-text").value = str(replacement_map.items())
         time.sleep(3)
         
         for line in lines:
