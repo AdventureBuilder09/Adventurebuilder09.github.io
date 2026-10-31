@@ -63,11 +63,11 @@ async def process_text(event):
               if (target.casefold() in line.casefold()):
                 val = 0
             if ("nazgul" in line.casefold()):
-              val = max(0, val - 9)
+              val = max(0, val - 8)
             if ("nazgûl" in line.casefold()):
-              val = max(0, val - 9)
+              val = max(0, val - 8)
             if ("seven dwarves" in line.casefold()):
-              val = max(0, val - 7)
+              val = max(0, val - 6)
             pts = pts - int((val * val / 2) - (val / 2))
                
 
