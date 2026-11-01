@@ -196,6 +196,8 @@ Gaea's Cradle - 10
 
 Mishra's Workshop - 20
 
+Ancient Tomb - 10
+
 Tolarian Academy - 25
 
 Urza's Fun House - 30
