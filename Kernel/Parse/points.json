@@ -24,57 +24,139 @@
     "Shadowborn Apostle",
     "Templar Knight"
   ],
-  "Advantageous Proclamation": 10,
-  "Sentinel Dispatch": 30,
-  "Muzzio's Preparations": 30,
-  "Backup Plan": 40,
-  "Worldknit": 40,
-  "Brago's Favor": 40,
-  "Unexpected Potential": 40,
-  "Secret Summoning": 50,
-  "Summoner's Bond": 60,
-  "Soverign's Realm": 60, 
-  "Power Play": 60,
-  "Double Stroke": 60,
-  "Echoing Boon": 60,
-  "Other Conspiracies": 20,
+"Advantageous Proclamation": -10,
 
+"Sentinel Dispatch": 10,
 
-  "Mox Pearl": 15,
-  "Mox Sapphire": 15,
-  "Mox Jet": 15,
-  "Mox Ruby": 15,
-  "Mox Emerald": 15,
-  "Mox Poison": 20,
-  "Jack-in-the-Mox": 15,
-  "Chrome Mox": 10,
-  "Mox Diamond": 15,
-  "Mox Opal": 15,
+"Muzzio's Preparations": 10,
 
+"Backup Plan": 20,
 
-  "Black Lotus": 25,
-  "Blacker Lotus": 25,
-  "Mana Crypt": 20,
-  "Guild Pact": 15,
+"Worldknit": 20,
 
+"Brago's Favor": 20,
 
-  "Sol Ring": 15,
-  "Mana Vault": 15,
-  "Channel": 20,
+"Unexpected Potential": 20,
 
+"Secret Summoning": 30,
 
-  "Gaea's Cradle": 10,
-  "Mishra's Workshop": 20,
-  "Tolarian Academy": 25,
-  "Urza's Fun House": 30,
-  "Cloudpost": 5,
-  "Nearby Planet": 5,
-  "Wrenn and One": 10,
+"Summoner's Bond": 40,
 
+"Soverign's Realm": 40 ,
 
-  "Ad Nauseam": 40,
-  "Thassa's Oracle": 40,
-  "Demonic Consultation": 20,
-  "Tinker": 10,
-  "Germinate recruits": 2
+"Power Play": 40,
+
+"Double Stroke": 40,
+
+"Echoing Boon": 40,
+
+"Mox Pearl": 15,
+
+"Mox Sapphire": 15,
+
+"Mox Jet": 15,
+
+"Mox Ruby": 15,
+
+"Mox Emerald": 15,
+
+"Mox Poison": 20,
+
+"Jack-in-the-Mox": 15,
+
+"Chrome Mox": 10,
+
+"Mox Diamond": 15,
+
+"Mox Opal": 10,
+
+"Black Lotus": 25,
+
+"Blacker Lotus": 25,
+
+"Lion's Eye Diamond": 10,
+
+"Mana Crypt": 20,
+
+"Guild Pact": 15,
+
+"Sol Ring": 15,
+
+"Mana Vault": 15,
+
+"Channel": 20,
+
+"Lotus Petal": 3,
+
+"Simian Spirit Guide": 2,
+
+"Elvish Spirit Guide": 2,
+
+"Gaea's Cradle": 10,
+
+"Mishra's Workshop": 20,
+
+"Tolarian Academy": 25,
+
+"Urza's Fun House": 30,
+
+"Cloudpost": 5,
+
+"Nearby Planet": 2,
+
+"Strip Mine": 5,
+
+"Urza's Saga": 5,
+
+"Gitaxian Probe": 3,
+
+"Ancestral Recall": 10,
+
+"Brainstorm": 2,
+
+"Demonic Tutor": 10,
+
+"Imperial Seal": 5,
+
+"Vampiric Tutor": 5,
+
+"Mystical Tutor": 5,
+
+"Merchant Scroll": 5,
+
+"Demonic Consultation": 20,
+
+"Ad Nauseam": 40,
+
+"Thassa's Oracle": 40,
+
+"Oracle of the Alpha": 10,
+
+"Tinker": 10,
+
+"Flash": 10,
+
+"Protean Hulk": 5,
+
+"Time Vault": 5,
+
+"Time Walk": 5,
+
+"Mind's Desire": 5,
+
+"Yawgmoth's Will": 5,
+
+"Golgari Grave-Troll": 5,
+
+"Rocket-Powered Turbo Slug": 5,
+
+"Blazing Shoal": 5,
+
+"Glistener Elf": 2,
+
+"Blighted Agent": 3,
+
+"Inkmoth Nexus": 5,
+
+"Tainted Strike": 5,
 }
