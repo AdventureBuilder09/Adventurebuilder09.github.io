@@ -247,7 +247,7 @@ Park Map - 1
 
 Thassa's Oracle - 40
 
-Oracle of the Alpha - 3
+Oracle of the Alpha - 0
 
 Tinker - 10
 
