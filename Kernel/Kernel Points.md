@@ -379,7 +379,7 @@ The library you exchange must be another legal KP deck. You do not gain any cons
 <a id="Changelog"></a>
 # Changelog
 - Added a ruling and value (5) for Decorated Knight
-- Dropped Oracle of the Alpha's point value to 3 (essentially banned as commander)
+- Dropped Oracle of the Alpha's point value
 - Added a small value to park map and omnipresent imposter promote strategy-based deckbuilding over automatic filler cards (gut shot is still a staple)
 - Removed cloudpost's value
 - Changed the bookwormlet quest to be a higher bar
