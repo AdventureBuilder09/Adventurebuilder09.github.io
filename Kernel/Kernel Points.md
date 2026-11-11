@@ -21,7 +21,7 @@
 
 [Rules Clarifications](#Rulings)
 
-[Changelog](#Changelog)
+**[Changelog](#Changelog)**
 
 
 <a id="Overview"></a>
@@ -363,6 +363,7 @@ If a card would be destroyed, instead exile it. Then remove it from the game. Th
 It doesn't return to the command zone.
 <a id="Changelog"></a>
 # Changelog
+- 
 - Improved singleton and colorlock quest rewards.
 - Made Signature Spells more expensive, but added a rebate quest that makes it cheaper than before
 - Added values for a few cheap infect enablers and blazing shoal.
