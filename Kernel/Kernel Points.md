@@ -202,8 +202,6 @@ Tolarian Academy - 25
 
 Urza's Fun House - 30
 
-Cloudpost - 5
-
 Nearby Planet - 2
 
 Strip Mine - 5
@@ -235,6 +233,9 @@ Demonic Consultation - 20
 
 Ad Nauseam - 40
 
+Park Map - 1
+
+
 <a id="General Power"></a>
 ## General Power / Combo Pieces
 
@@ -258,6 +259,7 @@ Yawgmoth's Will - 5
 
 Golgari Grave-Troll - 5
 
+Omnipresent Impostor - 2
 ## Aggro/Turbo
 Rocket-Powered Turbo Slug - 5
 
@@ -302,7 +304,7 @@ Have at least 15% of your starting deck be creatures with at least three differe
  If you qualify for the Tribal bonus, you also get 15 points for each additional creature type that each non-changeling creature in your decklist shares.
 
 ## Bookwormlet (5 pts)
-Every artifact in your [decklist](#Decklist) is a [Book](https://scryfall.com/search?q=t%3Abook).
+Every artifact in your [decklist](#Decklist) is a [Book](https://scryfall.com/search?q=t%3Abook), and you are running at least 5% artifacts.
 ### Bookworm (15 pts)
 Every artifact in your [decklist](#Decklist) is a [Book](https://scryfall.com/search?q=t%3Abook), and you are running at least 20% artifacts.
 
@@ -363,7 +365,9 @@ If a card would be destroyed, instead exile it. Then remove it from the game. Th
 It doesn't return to the command zone.
 <a id="Changelog"></a>
 # Changelog
-- 
+- Added a small value to park map and omnipresent imposter promote strategy-based deckbuilding over automatic filler cards (gut shot is still a staple)
+- Removed cloudpost's value
+- Changed the bookwormlet quest to be a higher bar
 - Improved singleton and colorlock quest rewards.
 - Made Signature Spells more expensive, but added a rebate quest that makes it cheaper than before
 - Added values for a few cheap infect enablers and blazing shoal.

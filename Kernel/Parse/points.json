@@ -102,8 +102,6 @@
 
 "Urza's Fun House": 30,
 
-"Cloudpost": 5,
-
 "Nearby Planet": 2,
 
 "Strip Mine": 5,
@@ -129,6 +127,8 @@
 "Demonic Consultation": 20,
 
 "Ad Nauseam": 40,
+
+"Park Map": 1,
 
 "Thassa's Oracle": 40,
 
@@ -160,5 +160,7 @@
 
 "Inkmoth Nexus": 5,
 
-"Tainted Strike": 5
+"Tainted Strike": 5,
+
+"Omnipresent Imposter": 2
 }
