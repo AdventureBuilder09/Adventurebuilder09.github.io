@@ -11,7 +11,11 @@
 	-  [Moxen](#Moxen)
 	-  [Rituals](#Rituals)
 	-  [Lands](#Lands)
-- [Assorted Points Cards](#General%20Power)
+- [Free Spells](#Free%20Spells)
+- [Tutors and Card Advantage](#Tutors)
+- [Assorted/General](#General%20Power)
+	- [Turbo](#Turbo)
+	- [Infect](#Infect)
 
 [Quests](#Quests)
 
@@ -208,11 +212,13 @@ Strip Mine - 5
 
 Urza's Saga - 5
 
-## Free spells
+<a id="Free Spells"></a>
+## Free Spells
 
 Gitaxian Probe - 3
 
 
+<a id="Tutors"></a>
 ## Card Advantage / Tutors
 
 Ancestral Recall - 10
@@ -241,7 +247,7 @@ Park Map - 1
 
 Thassa's Oracle - 40
 
-Oracle of the Alpha - 10
+Oracle of the Alpha - 3
 
 Tinker - 10
 
@@ -260,12 +266,17 @@ Yawgmoth's Will - 5
 Golgari Grave-Troll - 5
 
 Omnipresent Impostor - 2
-## Aggro/Turbo
+
+Decorated Knight - 4
+
+<a id="Turbo"></a>
+### Aggro/Turbo
 Rocket-Powered Turbo Slug - 5
 
 Blazing Shoal - 5
 
-## Infect
+<a id="Infect"></a>
+### Infect
 Glistener Elf - 2
 
 Blighted Agent - 3
@@ -352,19 +363,23 @@ These can be fun, but you must check with your opponent ***before the game start
 These are similar to dexterity cards, but easier to pull off in digital formats.
 
 ## InQuest Cards (and others not in scryfall)
-Most sites build their databases from scryfall, so if scryfall doesn't have it, it's unlikely anywhere else will either. Therefore [Elminster](https://edhsilver.com/cards/uo/inq/elminster/) is not legal.
+Most sites build their databases from scryfall, so if scryfall doesn't have it, it's unlikely anywhere else will either. Therefore [Elminster](https://edhsilver.com/cards/uo/inq/elminster/) (and other InQuest cards) are not legal.
 <a id="Rulings"></a>
 # Rulings
-
-
+# Commanders Granting Points
 Commanders don't grant extra points. It's only cards in your maindeck.
 ## Destroying cards
 
 If a card would be destroyed, instead exile it. Then remove it from the game. Then put it into the absolutely-removed-from-the-freaking-game-forever zone (treat it as though it doesn't exist).
 
 It doesn't return to the command zone.
+
+## Decorated Knight / Present Arms
+The library you exchange must be another legal KP deck. You do not gain any conspiracies, commanders, vanguards, sideboard cards, or any other cards from that deck that do not start the game in the library.
 <a id="Changelog"></a>
 # Changelog
+- Added a ruling and value (5) for Decorated Knight
+- Dropped Oracle of the Alpha's point value to 3 (essentially banned as commander)
 - Added a small value to park map and omnipresent imposter promote strategy-based deckbuilding over automatic filler cards (gut shot is still a staple)
 - Removed cloudpost's value
 - Changed the bookwormlet quest to be a higher bar
