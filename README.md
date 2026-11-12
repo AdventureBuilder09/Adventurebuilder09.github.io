@@ -3,8 +3,7 @@
 <div id="build-status">Checking commit status...</div>
 
 <script>
-
-  fetch('https://api.github.com/repos/Adventurebuilder09/adventurebuilder09.github.io/commits/main')
+fetch('https://api.github.com/repos/Adventurebuilder09/adventurebuilder09.github.io/commits/main')
 
     .then(response => response.json())
 
@@ -23,7 +22,6 @@
       document.getElementById('build-status').innerText = 'Could not get last commit date.';
 
     });
-
 </script>
 
 <p>Last site build time: {{ site.time | date: "%m/%d/%Y, %H:%M:%S" }}</p>
