@@ -1,9 +1,7 @@
 ---
 ---
 
-
-<html>
-<body>
+{::nomarkdown}
 <div id="build-status">Checking commit status...</div>
 
 <script>
@@ -29,8 +27,7 @@ fetch('https://api.github.com/repos/Adventurebuilder09/adventurebuilder09.github
 </script>
 
 <p>Last site build time: {{ site.time | date: "%m/%d/%Y, %H:%M:%S" }}</p>
-</body></html>
-
+{::/nomarkdown}
 A place for me to put stuff on the internet
 - [Magic: the Gathering custom format: Points based Kernel (KP)](Kernel/Kernel%20Points) - [Web Link](https://adventurebuilder09.github.io/Kernel/Kernel%20Points.html)
 	- [Kernel Deck Checker (Functional)](Kernel/Parse/Kernel-Validity-Checker.html)
