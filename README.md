@@ -4,6 +4,7 @@
 {::nomarkdown}
 **test**
 {::/nomarkdown}
+
 A place for me to put stuff on the internet
 - [Magic: the Gathering custom format: Points based Kernel (KP)](Kernel/Kernel%20Points) - [Web Link](https://adventurebuilder09.github.io/Kernel/Kernel%20Points.html)
 	- [Kernel Deck Checker (Functional)](Kernel/Parse/Kernel-Validity-Checker.html)
