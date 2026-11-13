@@ -376,8 +376,14 @@ It doesn't return to the command zone.
 
 ## Decorated Knight / Present Arms
 The library you exchange must be another legal KP deck. You do not gain any conspiracies, commanders, vanguards, sideboard cards, or any other cards from that deck that do not start the game in the library.
+
+# Tabled (Considering) Changes
+Cheaper fast mana
+Value on Gamble
+Decorated Knight deck limit
 <a id="Changelog"></a>
 # Changelog
+- 
 - Added a ruling and value (5) for Decorated Knight
 - Dropped Oracle of the Alpha's point value
 - Added a small value to park map and omnipresent imposter promote strategy-based deckbuilding over automatic filler cards (gut shot is still a staple)
