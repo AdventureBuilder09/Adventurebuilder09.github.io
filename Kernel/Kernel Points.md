@@ -51,6 +51,9 @@ Your decklist includes every card in your maindeck (which you shuffle as you sta
 ## Speed goals
 
 Combo decks make attempts T2-3, Aggro threatens game shortly afterwards. 
+
+## Deck Checker
+[Deck Checker](Kernel/Parse/Kernel-Validity-Checker.html)
 <a id="Point Values"></a>
 # Point values
 
@@ -315,7 +318,8 @@ Have at least 15% of your starting deck be creatures with at least three differe
  If you qualify for the Tribal bonus, you also get 15 points for each additional creature type that each non-changeling creature in your decklist shares.
 
 ## Bookwormlet (5 pts)
-Every artifact in your [decklist](#Decklist) is a [Book](https://scryfall.com/search?q=t%3Abook), and you are running at least 5% artifacts.
+Every artifact in your [decklist](#Decklist) is a [Book](https://scryfall.com/search?q=t%3Abook).
+(Essentially, run a low-synergy card and no other artifacts for 5 points)
 ### Bookworm (15 pts)
 Every artifact in your [decklist](#Decklist) is a [Book](https://scryfall.com/search?q=t%3Abook), and you are running at least 20% artifacts.
 
