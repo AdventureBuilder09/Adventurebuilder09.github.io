@@ -1,5 +1,6 @@
 # [Deck Checker](Kernel/Parse/Kernel-Validity-Checker.html)
 # Table of Contents
+---
 
 [Overview](#Overview)
 
@@ -31,6 +32,7 @@
 
 <a id="Overview"></a>
 # Overview
+---
 
 The goal is to make a true kitchen-table format with a minimal banlist that allows for nearly unlimited deckbuilding freedom, while keeping a balanced format.
 
@@ -52,11 +54,9 @@ Your decklist includes every card in your maindeck (which you shuffle as you sta
 ## Speed goals
 
 Combo decks make attempts T2-3, Aggro threatens game shortly afterwards. 
-
-## Deck Checker
-[Deck Checker](Kernel/Parse/Kernel-Validity-Checker.html)
 <a id="Point Values"></a>
 # Point values
+---
 
 1 card in your maindeck gives you 1 point to spend (I.E. you could have a commander creature in a 60-card deck with no other point-costing cards)
 
@@ -288,9 +288,10 @@ Blighted Agent - 3
 Inkmoth Nexus - 5
 
 Tainted Strike - 5
+
 <a id="Quests"></a>
 # Quests
-
+---
 You can also make your deck better by fulfilling certain restrictions. Yes, this is a very original idea that I came up independently of the companion mechanic.
 
 ### Singleton (30 pts)
@@ -327,6 +328,7 @@ Every artifact in your [decklist](#Decklist) is a [Book](https://scryfall.com/se
 
 <a id="Banlist"></a>
 # Banlist
+---
 
 ## Gleemox 
 (it says so, who am I to argue?)
@@ -371,6 +373,7 @@ These are similar to dexterity cards, but easier to pull off in digital formats.
 Most sites build their databases from scryfall, so if scryfall doesn't have it, it's unlikely anywhere else will either. Therefore [Elminster](https://edhsilver.com/cards/uo/inq/elminster/) (and other InQuest cards) are not legal.
 <a id="Rulings"></a>
 # Rulings
+---
 # Commanders Granting Points
 Commanders don't grant extra points. It's only cards in your maindeck.
 ## Destroying cards
@@ -381,6 +384,7 @@ It doesn't return to the command zone.
 
 ## Decorated Knight / Present Arms
 The library you exchange must be another legal KP deck. You do not gain any conspiracies, commanders, vanguards, sideboard cards, or any other cards from that deck that do not start the game in the library.
+In addition, you may only have 1 other deck to swap into.
 
 # Tabled (Considering) Changes
 Cheaper fast mana
@@ -388,7 +392,8 @@ Value on Gamble
 Decorated Knight deck limit
 <a id="Changelog"></a>
 # Changelog
-- 
+---
+- Updated Decorated Knight ruling, did some formatting changes
 - Added a ruling and value (5) for Decorated Knight
 - Dropped Oracle of the Alpha's point value
 - Added a small value to park map and omnipresent imposter promote strategy-based deckbuilding over automatic filler cards (gut shot is still a staple)
