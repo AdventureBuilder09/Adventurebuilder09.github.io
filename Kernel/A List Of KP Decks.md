@@ -6,9 +6,13 @@
  
 [Maralyn's Value Train • Archidekt](https://archidekt.com/decks/27860466/marastax)
 
+**Legal (for now)**
 [Eladamri Turbo Channel • Archidekt](https://archidekt.com/decks/28315036/eladamri_turbo_channel_kp)
 
 [Slug Aggro • Archidekt](https://archidekt.com/decks/28283548/slug_aggro_kp)
+
+[Calibrated Nuclear • Archidekt](https://archidekt.com/decks/28373856/calibrated)
+
 **No longer legal** 
  - [Infect • Archidekt](https://archidekt.com/decks/27913913/infect)
  - [Shoal • Archidekt](https://archidekt.com/decks/27885108/shoal)
@@ -17,3 +21,4 @@
 **WIP** 
  - [Chronatog Avatar • Archidekt](https://archidekt.com/decks/27861397/chronatog)
  - [Red Deck Wins • Archidekt](https://archidekt.com/decks/27883212/red_deck_wins)
+ - [Micros and Macros• Archidekt](https://archidekt.com/decks/27437170/micros)
