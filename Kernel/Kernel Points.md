@@ -1,3 +1,4 @@
+# [Deck Checker](Kernel/Parse/Kernel-Validity-Checker.html)
 # Table of Contents
 
 [Overview](#Overview)
