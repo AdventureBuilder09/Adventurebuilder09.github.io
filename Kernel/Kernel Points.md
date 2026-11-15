@@ -275,6 +275,9 @@ Omnipresent Impostor - 2
 
 Decorated Knight - 4
 
+Calibrated Blast - 1
+
+Erratic Explosion - 1
 <a id="Turbo"></a>
 ### Aggro/Turbo
 Rocket-Powered Turbo Slug - 5
