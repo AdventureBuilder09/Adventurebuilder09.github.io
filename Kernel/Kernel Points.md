@@ -62,9 +62,9 @@ Combo decks make attempts T2-3, Aggro threatens game shortly afterwards.
 
 60 Card Base Min (See Advantageous Proclamation)
 
-15 Card Sideboard
-
-- cards in SB count for points
+## Sideboard
+To start, you have a 15-Card Sideboard
+- cards in SB count against points
 
 - 2pts per additional SB card
 
