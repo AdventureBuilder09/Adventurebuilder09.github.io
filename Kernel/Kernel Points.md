@@ -346,7 +346,6 @@ Pretty self explanatory. There are strictly better cards and this isn't the spac
 - [Boomstacker](https://edhsilver.com/cards/uc/und/boomstacker/)
 - [Chaos Confetti](https://edhsilver.com/cards/uc/ugl/chaos-confetti/)
 - [Charm School](https://edhsilver.com/cards/uc/ugl/charm-school/)
-- [Cheatyface](https://edhsilver.com/cards/uc/unh/cheatyface/)
 - [Clay Pigeon](https://edhsilver.com/cards/uc/ugl/clay-pigeon/)
 - [Cramped Bunker](https://edhsilver.com/cards/uc/ust/cramped-bunker/)
 - [Entirely Normal Armchair](https://edhsilver.com/cards/uc/ust/entirely-normal-armchair/)
@@ -359,6 +358,7 @@ Pretty self explanatory. There are strictly better cards and this isn't the spac
 - [Slaying Mantis](https://edhsilver.com/cards/uc/ust/slaying-mantis/)
 - [Volrath’s Motion Sensor](https://edhsilver.com/cards/uc/ugl/volraths-motion-sensor/)
 - [Devil K. Nevil](https://scryfall.com/card/unf/104/devil-k-nevil)
+- [Deadhead](https://scryfall.com/cards/cdb3998e-b4a1-4dd1-8e12-24579ec8938b)
 
 ## The ante cards 
 This format is very much intended to be played digitally, so ante doesn't really work.
