@@ -227,6 +227,8 @@ Gitaxian Probe - 3
 
 Ancestral Recall - 10
 
+Timetwister - 2
+
 Brainstorm - 2
 
 Demonic Tutor - 10
@@ -249,7 +251,9 @@ Park Map - 1
 <a id="General Power"></a>
 ## General Power / Combo Pieces
 
-Thassa's Oracle - 40
+Thassa's Oracle - 10
+
+Time Walk - 5
 
 Oracle of the Alpha - 0
 
@@ -260,8 +264,6 @@ Flash - 10
 Protean Hulk - 5
 
 Time Vault - 5
-
-Time Walk - 5
 
 Mind's Desire - 5
 
@@ -393,6 +395,7 @@ Decorated Knight deck limit
 <a id="Changelog"></a>
 # Changelog
 ---
+- Added value for timetwister, changed thoracle to 10
 - Updated Decorated Knight ruling, did some formatting changes
 - Added a ruling and value (5) for Decorated Knight
 - Dropped Oracle of the Alpha's point value
