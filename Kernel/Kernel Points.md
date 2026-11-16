@@ -387,6 +387,9 @@ If a card would be destroyed, instead exile it. Then remove it from the game. Th
 
 It doesn't return to the command zone.
 
+## Ashnod's Coupon
+You still pay any costs for the drink, even if you have R&D's Secret Lair
+
 ## Decorated Knight / Present Arms
 The library you exchange must be another legal KP deck. You do not gain any conspiracies, commanders, vanguards, sideboard cards, or any other cards from that deck that do not start the game in the library.
 In addition, you may only have 1 other deck to swap into.
@@ -394,7 +397,6 @@ In addition, you may only have 1 other deck to swap into.
 # Tabled (Considering) Changes
 Cheaper fast mana
 Value on Gamble
-Decorated Knight deck limit
 <a id="Changelog"></a>
 # Changelog
 ---
