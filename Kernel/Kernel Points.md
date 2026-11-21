@@ -221,6 +221,10 @@ Urza's Saga - 5
 
 Gitaxian Probe - 3
 
+Force of Will - 2
+
+Force of Negation - 2
+
 
 <a id="Tutors"></a>
 ## Card Advantage / Tutors
